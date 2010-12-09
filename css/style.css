@@ -1,0 +1,56 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  background-color: #dfdfdf;
+  background: -webkit-gradient(linear, center top, center bottom, from(#bfbfbf), to(#ffffff));
+}
+
+a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #666;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* gradient: dark grey #3f3f3f -> lighter gray #7f7f7f */
+
+#masthead {
+  padding: 15px;
+  text-align: right;
+  color: white;
+  background: -webkit-gradient(linear, center top, center bottom, from(#3f3f3f), to(#7f7f7f));
+  background: -moz-linear-gradient(top, blue, white);
+  background-color: #5f5f5f;
+}
+
+#masthead-url {
+  text-decoration: none;
+  font-weight: bold;
+  color: black;
+  font-size: 120%;
+}
+
+#masthead-acronym {
+  font-weight: bolder;
+  font-size: 400%;
+}
+
+#masthead-subtitle {
+  font-size: 140%;
+}
+
+#masthead-logo {
+  float: left;
+}
+
+#consortium-list > li {
+  padding-top: 8px;
+}
+
+h1 {
+  font-size: 130%;
+  color: #037;
+}
+
