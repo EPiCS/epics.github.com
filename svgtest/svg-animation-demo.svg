@@ -1,9 +1,6 @@
 <?xml version="1.0"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" version="1.1">
-  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
-    <dc:date>2011-01-05 08:09Z</dc:date>
-  </metadata>
   <defs>
     <filter id="Shadow" filterUnits="userSpaceOnUse">
       <feGaussianBlur in="SourceAlpha" result="blur" stdDeviation="3.488"/>
@@ -16,7 +13,7 @@
 
   <path d="M 278 183 C 355 192 407 254 409 302 C 411 350 340 542 230 544 C 120 546 94 348 114 285 C 134 222 201 174 278 183 Z" fill="#a0a5a9"/>
 
-  <path fill="#b10064" fill-opacity=".7">
+  <path fill="#b10064" fill-opacity=".7" d="M 185 173 C 276 148 345 225 367 296 C 389 367 343 429 245 429 C 148 429 94 198 185 173 Z">
     <animate dur="5s" repeatCount="indefinite" attributeName="d" 
       values="M 185 173 C 276 148 345 225 367 296 C 389 367 343 429 245 429 C 148 429 94 198 185 173 Z;
       M187 168 C 278 144 297 189 319 260 C 341 331 343 429 245 429 C 148 429 96 192 187 168 Z;
