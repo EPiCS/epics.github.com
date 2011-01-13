@@ -14,14 +14,20 @@
 
   <h1>A nice header is never wrong</h1>
 
-  <!--[if IE]>
-  <object src="svg-animation-demo.svg" classid="image/svg+xml" width="500" height="500">
-  <![endif]-->
   <!--[if !IE]>-->
-  <object data="svg-animation-demo.svg" type="image/svg+xml" width="500" height="500">
-  <!--<![endif]-->
-  <img src="fallback.png" alt="logo" />
-  </object>
+    <object data="svg-animation-demo.svg" type="image/svg+xml"
+            width="500" height="500" id="mySVG"> <!--<![endif]-->
+  <!--[if lt IE 9]>
+    <object src="svg-animation-demo.svg" classid="image/svg+xml"
+            width="500" height="500" id="mySVG"> <![endif]-->
+  <!--[if gte IE 9]>
+    <object data="svg-animation-demo.svg" type="image/svg+xml"
+            width="500" height="500" id="mySVG"> <![endif]-->
+    <img src="fallback.png" />
+    </object>
+
+
+
 
 
 </body>
