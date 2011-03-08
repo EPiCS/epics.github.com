@@ -1,3 +1,5 @@
 * Make project.html XHTML conform
 * give pages meaningful names
 * convert all text to either british or american english
+* add partner navigation links to consortium page
+* add more spacing between partner description and logo on consortium page
