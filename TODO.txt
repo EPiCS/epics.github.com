@@ -1,0 +1,3 @@
+* Make project.html XHTML conform
+* give pages meaningful names
+* convert all text to either british or american english
