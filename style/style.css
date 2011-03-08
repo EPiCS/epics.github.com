@@ -16,7 +16,7 @@ body{font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#
 
 #content_container_klein{float:left; width:452px;}
 #content_container_gross{float:left; width:731px;}
-#boxes{width:260px; float:right;}
+.boxes{width:260px; float:right;}
 #box{background-color:#F4F4F4;}
 #box_content{padding:10px; font-size:10px; line-height:150%;}
 #box_content h2{color:#999999; font-size:12px; padding:0px; margin:0px; margin-bottom:15px;}
@@ -44,7 +44,7 @@ a:hover{color:#B10064;}
 
 .consortium{border-bottom:1px dotted #999999; padding-bottom:11px; margin-bottom:25px;}
 #last_consortium{border:none; margin-bottom:0px;}
-#consortium_content{float:left; width:452px;}
+.consortium_content{float:left; width:452px;}
 
 .news{border-bottom:1px dotted #999999; padding-bottom:11px; margin-bottom:25px;}
 #last_news{border:none; margin-bottom:0px;}
