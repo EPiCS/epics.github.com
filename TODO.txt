@@ -1,5 +1,19 @@
-* Make project.html XHTML conform
+Immediate
+===================================================================================
+
 * give pages meaningful names
-* convert all text to either british or american english
 * add partner navigation links to consortium page
 * add more spacing between partner description and logo on consortium page
+
+Next steps (after GA Meeting)
+===================================================================================
+
+* Convert all text to either british or american english
+* Revise all text, add better project description
+* License Myriad pro font from Typekit
+
+
+Next steps (in April 2011)
+===================================================================================
+
+* Integrate webpage with nanoc templating system
