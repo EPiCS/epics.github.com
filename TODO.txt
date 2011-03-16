@@ -3,7 +3,8 @@ Immediate
 
 * give pages meaningful names
 * add partner navigation links to consortium page
-* add more spacing between partner description and logo on consortium page
+* use CSS last rules instead of manually adding classes
+* cleanup and simplify CSS
 
 Next steps (after GA Meeting)
 ===================================================================================

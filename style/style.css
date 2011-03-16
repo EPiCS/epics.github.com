@@ -45,6 +45,7 @@ a:hover{color:#B10064;}
 .consortium{border-bottom:1px dotted #999999; padding-bottom:11px; margin-bottom:25px;}
 #last_consortium{border:none; margin-bottom:0px;}
 .consortium_content{float:left; width:452px;}
+.consortium img {float: right;}
 
 .news{border-bottom:1px dotted #999999; padding-bottom:11px; margin-bottom:25px;}
 #last_news{border:none; margin-bottom:0px;}
