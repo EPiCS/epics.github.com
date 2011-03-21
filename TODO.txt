@@ -18,3 +18,10 @@ Next steps (in April 2011)
 ===================================================================================
 
 * Integrate webpage with nanoc templating system
+
+
+
+Done
+===================================================================================
+2011-03-12 reintegrate Google Analytics
+2011-03-12 create first version of Imprint
