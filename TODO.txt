@@ -2,7 +2,6 @@ Immediate
 ===================================================================================
 
 * give pages meaningful names
-* add partner navigation links to consortium page
 * use CSS last rules instead of manually adding classes
 * cleanup and simplify CSS
 
@@ -11,6 +10,7 @@ Next steps (after GA Meeting)
 
 * Convert all text to either british or american english
 * Revise all text, add better project description
+* Find english-native proof-reader
 * License Myriad pro font from Typekit
 
 
@@ -25,3 +25,4 @@ Done
 ===================================================================================
 2011-03-12 reintegrate Google Analytics
 2011-03-12 create first version of Imprint
+2011-03-12 add partner navigation links to consortium page
