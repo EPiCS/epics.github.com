@@ -24,7 +24,13 @@ body{font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#
 
 #footer{margin-left:290px; margin-top:10px; margin-bottom:10px; width:711px; border-top:2px dotted #33B1E1; font-size:10px; padding-top:12px;}
 
-h1{font-size:18px; margin:0px; padding:0px; padding-top:72px; padding-left:19px;}
+/* h1{font-size:18px; margin:0px; padding:0px; padding-top:72px; padding-left:19px;} */
+
+h1{
+  font-size:18px; margin:0px; padding:0px; padding-top:72px; padding-left:19px;
+  font-family: "myriad-pro-1","myriad-pro-2", Verdana, Arial, Helvetica, sans-serif;
+}
+
 /* original : h2{font-size:18px; margin:0px; padding:0px;} */
 h2{font-size:14px; margin:0px; padding:0px;}
 h3{font-size:11px; margin:0px; padding:0px;}
