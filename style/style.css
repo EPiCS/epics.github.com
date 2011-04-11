@@ -58,7 +58,7 @@ a:hover{color:#B10064;}
 #menue{ list-style-type: none; padding:0px; margin:0px; padding-top:22px; }
 #menue li { display: block; }
 #menue li a, #menue li a:link {
-font-family: "Myriad Pro", Verdana, Arial, Helvetica, sans-serif;
+font-family: "myriad-pro-1","myriad-pro-2", Verdana, Arial, Helvetica, sans-serif;
 text-decoration:none;
 display: block;
 font-size:22px;
