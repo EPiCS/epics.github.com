@@ -24,13 +24,7 @@ body{font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#
 
 #footer{margin-left:290px; margin-top:10px; margin-bottom:10px; width:711px; border-top:2px dotted #33B1E1; font-size:10px; padding-top:12px;}
 
-/* h1{font-size:18px; margin:0px; padding:0px; padding-top:72px; padding-left:19px;} */
-
-h1{
-  font-size:18px; margin:0px; padding:0px; padding-top:72px; padding-left:19px;
-  font-family: "myriad-pro-1","myriad-pro-2", Verdana, Arial, Helvetica, sans-serif;
-}
-
+h1{font-size:18px; margin:0px; padding:0px; padding-top:72px; padding-left:19px;}
 /* original : h2{font-size:18px; margin:0px; padding:0px;} */
 h2{font-size:14px; margin:0px; padding:0px;}
 h3{font-size:11px; margin:0px; padding:0px;}
@@ -64,7 +58,7 @@ a:hover{color:#B10064;}
 #menue{ list-style-type: none; padding:0px; margin:0px; padding-top:22px; }
 #menue li { display: block; }
 #menue li a, #menue li a:link {
-font-family: "myriad-pro-1","myriad-pro-2", Verdana, Arial, Helvetica, sans-serif;
+font-family: "Myriad Pro", Verdana, Arial, Helvetica, sans-serif;
 text-decoration:none;
 display: block;
 font-size:22px;
@@ -78,11 +72,11 @@ height:30px;
 #menue li a.nav_home:hover{color:#A1A6AA;}
 #menue li a.nav_project:hover{color:#B00063;}
 #menue li a.nav_consortium:hover{color:#33B0E0;}
-#menue li a.nav_puplication:hover{color:#014E96;}
+#menue li a.nav_publication:hover{color:#014E96;}
 #menue li a.nav_news:hover{color:#9FA4A8;}
 
 #menue li.active a.nav_home{color:#A1A6AA;}
 #menue li.active a.nav_project{color:#B00063;}
 #menue li.active a.nav_consortium{color:#33B0E0;}
-#menue li.active a.nav_puplication{color:#014E96;}
+#menue li.active a.nav_publication{color:#014E96;}
 #menue li.active a.nav_news{color:#9FA4A8;}
