@@ -121,60 +121,80 @@
     <lastmod>2011-06-06</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2010_keller_futurenet/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2010_keller_futurenet_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2010_keller_futurenet/paper.pdf</loc>
+    <loc>http://www.epics-project.eu/publications/2010_keller_futurenet_paper.pdf</loc>
     <lastmod>2011-06-02</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_agne_fpl/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_agne_fpl_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_becker_fpl/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_becker_fpl_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_bogdanski_cisis/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_bogdanski_cisis2_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_bogdanski_isis2/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_bogdanski_cisis_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_esterle_icdsc/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_bogdanski_cisis_paper.pdf</loc>
+    <lastmod>2011-08-12</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2011_esterle_icdsc_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_faniyi_wicsa/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_esterle_icdsc_paper.pdf</loc>
+    <lastmod>2011-08-12</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2011_faniyi_wicsa2_bibtex.bib</loc>
+    <lastmod>2011-08-12</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2011_faniyi_wicsa_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_happe_fpl/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_happe_fpl_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_happe_jrtip/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_happe_jrtip_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_lewis_icec/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_lewis_icec_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_lewis_saso/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_lewis_icec_paper.pdf</loc>
+    <lastmod>2011-08-12</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2011_lewis_saso_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/publications/2011_parsons_techrep/bibtex.bib</loc>
+    <loc>http://www.epics-project.eu/publications/2011_lewis_saso_paper.pdf</loc>
+    <lastmod>2011-08-12</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2011_parsons_techrep_bibtex.bib</loc>
     <lastmod>2011-08-05</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/</loc>
-    <lastmod>2011-08-11</lastmod>
+    <lastmod>2011-08-12</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/sitemap.xml</loc>
