@@ -4,6 +4,7 @@ $(document).ready(function() {
     var msg = $(this).attr("href");
     re = /^(\w+):\/\//;
     tracking_url = msg.replace(re,"$1/");
-    pageTracker._trackPageview(prefix + tracking_url);
+    _gaq.push(['_trackPageview', prefix + tracking_url]);
+//    pageTracker._trackPageview(prefix + tracking_url);
   });
 });
