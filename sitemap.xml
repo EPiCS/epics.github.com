@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://www.epics-project.eu/bibtex-test/</loc>
+    <lastmod>2012-03-14</lastmod>
+  </url>
+  <url>
     <loc>http://www.epics-project.eu/CNAME</loc>
     <lastmod>2011-03-24</lastmod>
   </url>
@@ -290,7 +294,7 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/</loc>
-    <lastmod>2012-03-05</lastmod>
+    <lastmod>2012-03-14</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/robots.txt</loc>
