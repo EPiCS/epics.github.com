@@ -10,7 +10,7 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/consortium/</loc>
-    <lastmod>2011-06-06</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/contact/</loc>
@@ -98,7 +98,7 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/</loc>
-    <lastmod>2011-06-06</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/js/tracking.js</loc>
@@ -121,8 +121,12 @@
     <lastmod>2011-08-18</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/news/2011-09-02-EPiCS-Papers-FPT/</loc>
+    <loc>http://www.epics-project.eu/news/2011-09-02-EPiCS-Papers-FPL/</loc>
     <lastmod>2011-09-02</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/news/2012-04-10-Awareness-Magazine/</loc>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/news/</loc>
@@ -210,95 +214,95 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_lewis_icec.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_happe_fpl.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_happe_jrtip.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_esterle_icdsc.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_lewis_saso.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_susanto_icfpt.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_denholm_asap.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_tse_vlsis.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_becker_reconfig.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_keller_ancs.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_faniyi_wicsa.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_faniyi_wicsa2.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_becker_fpl.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_bogdanski_cisis.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_agne_fpl.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_chow_fccm.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_jin_fccm.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_liu_samos.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2010_keller_futurenet.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_niu_fpl.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_bogdanski_cisis2.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_parsons_techrep.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_jin_fpl.bib</loc>
-    <lastmod>2012-03-16</lastmod>
+    <lastmod>2012-04-10</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2010_keller_futurenet.pdf</loc>
