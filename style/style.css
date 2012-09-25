@@ -73,10 +73,12 @@ height:30px;
 #menue li a.nav_project:hover{color:#B00063;}
 #menue li a.nav_consortium:hover{color:#33B0E0;}
 #menue li a.nav_publication:hover{color:#014E96;}
+#menue li a.nav_software:hover{color:#014E96;}
 #menue li a.nav_news:hover{color:#9FA4A8;}
 
 #menue li.active a.nav_home{color:#A1A6AA;}
 #menue li.active a.nav_project{color:#B00063;}
 #menue li.active a.nav_consortium{color:#33B0E0;}
 #menue li.active a.nav_publication{color:#014E96;}
+#menue li.active a.nav_software{color:#014E96;}
 #menue li.active a.nav_news{color:#9FA4A8;}

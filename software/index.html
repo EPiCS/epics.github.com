@@ -36,7 +36,7 @@
     <li ><a class="nav_project" href="../project/">PROJECT</a></li>
     <li ><a class="nav_consortium" href="../consortium/">CONSORTIUM</a></li>
     <li ><a class="nav_publication" href="../publications/">PUBLICATIONS</a></li>
-    <li ><a class="nav_software" href="../software/">SOFTWARE</a></li>
+    <li class="active"><a class="nav_software" href="./">SOFTWARE</a></li>
     <li ><a class="nav_news" href="../news/">NEWS</a></li>
 </ul>
 </div> <!-- navigation -->
@@ -56,11 +56,7 @@
   		<div id="headline" style="background: url(/style/bg_headline.gif) no-repeat;">
   			<h1>
   			  
-  			    
-            
-            
-            
-            
+  			    Software
   			  
   			</h1>
   		</div>
@@ -70,23 +66,41 @@
   		<div id="content_container_gross">
   			<div class="content">
 
-          <h2>Here comes the BibTeX test</h2>
+          <div style="padding-top: 2ex; padding-bottom: 2ex; color: #aaa;">
+  <strong>Open Source:</strong>
+Some projects from the EPiCS consortium are released as open source. Copyright and all rights therein are retained by authors or by other copyright holders. All persons copying this information are expected to adhere to the terms and constraints invoked by each author's copyright. In most cases, these works are distributed under a free license such as the GNU GPL, so that it can be freely modified and redistributed under the terms of those licenses.
+</div>
 
-<ul>
-  <li>
-<span style="display: block">M. Happe, E. Lübbers, and M. Platzner</span> <span style="display: block"><b>A self-adaptive heterogeneous multi-core architecture for embedded real-time video object tracking</b></span>Journal of Real-Time Image Processing. Jul. 2011. 1–16.<br/>
-<a class="track" href="2011_happe_jrtip.bib">BibTeX</a> | 
-<a class="track" href="http://dx.doi.org/10.1007/s11554-011-0212-y">doi:10.1007/s11554-011-0212-y</a></li>
-  <li>
-<span style="display: block">A. Keller, B. Plattner, E. Lübbers, M. Platzner, and C. Plessl</span> <span style="display: block"><b>Reconfigurable Nodes for Future Networks</b></span>In Proc. IEEE Globecom Workshop on Network of the Future (FutureNet). Pages 372–376. IEEE. Dec. 2010.<br/>
-<a class="track" href="2010_keller_futurenet.pdf">PDF</a> | 
-<a class="track" href="2010_keller_futurenet.bib">BibTeX</a> | 
-<a class="track" href="http://dx.doi.org/10.1109/GLOCOMW.2010.5700341">doi:10.1109/GLOCOMW.2010.5700341</a></li>
-  <li>
-<span style="display: block">P.R. Lewis, A. Chandra, S. Parsons, E. Robinson, K. Glette, R. Bahsoon, J. Torresen, and X. Yao</span> <span style="display: block"><b>A Survey of Self-Awareness and Its Application in Computing Systems</b></span>In Proc. Int. Conference on Self-Adaptive and Self-Organizing Systems Workshops (SASOW). Pages 102–107. IEEE Computer Society. Oct. 2011.<br/>
-<a class="track" href="2011_lewis_saso.pdf">PDF</a> | 
-<a class="track" href="2011_lewis_saso.bib">BibTeX</a></li>
-</ul>
+<h3>ReconOS (<a href="https://github.com/EPiCS/reconos">https://github.com/EPiCS/reconos</a>)</h3>
+
+<p>ReconOS is a programming model, an execution environment, an operating system
+extension, a hardware architecture, a research project, and a development
+playground.</p>
+
+<p>Originally developed within the context of a university research project and a
+PhD thesis, ReconOS is a way to bring some of the convenience of a software-like
+programming model to the detail-ridden world of dynamically reconfigurable
+hardware design. With ReconOS, you can model a concurrent application for
+reconfigurable systems-on-chip (rSoC) using both software and hardware threads.
+The interactions between all threads are handled through common POSIX-like
+abstractions such as mailboxes, semaphores, or shared memory, hiding the
+complexities of bus access protocols, memory spaces, register files and
+interrupt handling.</p>
+
+<p>ReconOS also includes a dynamic network protocol stack developed by ETH Zurich.</p>
+
+<h3>Netsniff-NG (<a href="https://github.com/gnumaniacs/netsniff-ng">https://github.com/gnumaniacs/netsniff-ng</a>)</h3>
+
+<p>For development, performance testing and debugging purposes of the dynamic
+protocol stack that is part of ReconOS, ETH Zurich has developed a
+high-performance networking toolkit. The gain of the toolkit's performance
+is reached by zero-copy mechanisms, so that on packet reception and
+transmission the kernel does not need to copy packets from kernel space to
+user space and vice versa.</p>
+
+<p>Besides others, netsniff-ng contains a protocol analyzer, network traffic
+generator and top-like statistic tools in order to facilitate the protocol
+stack's development.</p>
 
   			</div>
   		</div>
@@ -100,7 +114,7 @@
 
 <div style="clear:both;"></div>
 
-<div id="footer">&copy; University of Paderborn, Germany | <a href="../imprint/">Imprint</a> | Last Updated Mar 14, 2012</div>
+<div id="footer">&copy; University of Paderborn, Germany | <a href="../imprint/">Imprint</a> | Last Updated Sep 25, 2012</div>
 
 
 </body>
