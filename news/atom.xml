@@ -15,12 +15,22 @@
 <published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-SRCS-Workshop/">
 <content type="html">&lt;p&gt;&lt;figure&gt;
 &lt;img src="/news/srcs12-workshop-groupshot.jpg" width="100%" /&gt;
-&lt;figcaption&gt;Group photo of the attendees of the SRCS'12 workshop (images: Jennifer Willies)&lt;/figcaption&gt;
+&lt;figcaption&gt;Group photo of the attendees of the SRCS'12 workshop (photo: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk"&gt;2012 workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS)&lt;/a&gt; was organised to bring together researchers who are active in the field of self-awareness, reconfigurable computing and related areas. Research on reconfigurable computing, involving technologies such as FPGAs, has long been concerned with reconfiguration and adaptation of circuits at run-time. Self-awareness is an emerging field of research that extends this line of research: it involves advanced concepts such as reasoning and learning in order to facilitate self- adaptation and self-optimisation. Self-awareness and the engineering of self-aware applications in the context of reconfigurable technology are also concepts that are fundamental to EPiCS. The workshop was initiated by members of the EPiCS consortium to achieve an active exchange between researchers to share their visions on general concepts and foundations of self-awareness as well as the practical transfer of these concepts to reconfigurable computing.&lt;/p&gt;
 
-&lt;p&gt;The workshop received submissions from all over the world, and through peer-review, 6 were selected for regular presentation and 6 were selected for poster presentation. The workshop also included 3 invited talks from industry and academia. The workshop took place on 1. September in Oslo, Norway, co-located with the &lt;a href="http://fpl2012.org"&gt;2012 International Conference on Field Programmable Logic and Applications (FPL)&lt;/a&gt;. The workshop was attended by 30 participants and featured a rich technical program followed by an extensive closing discussion. The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
+&lt;p&gt;The workshop received submissions from all over the world, and through peer-review, 6 were selected for regular presentation and 6 were selected for poster presentation. The workshop also included 3 invited talks from industry and academia. The workshop took place on 1. September in Oslo, Norway, co-located with the &lt;a href="http://fpl2012.org"&gt;2012 International Conference on Field Programmable Logic and Applications (FPL)&lt;/a&gt;. The workshop was attended by 30 participants and featured a rich technical program followed by an extensive closing discussion.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
+
+&lt;iframe src="http://player.vimeo.com/video/50681080?title=0&amp;amp;byline=0&amp;amp;portrait=0" style="text-align: center; width: 600px; height: 337px;" width="600" height="337" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+
+
+&lt;p&gt;&lt;figcaption&gt;Video of the closing discussion at the SRCS workshop (video: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
 <published>2012-04-29T22:00:00Z</published><updated>2012-04-29T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-30-Awareness-Magazine-Plessl/">
 <content type="html">&lt;p&gt;Christian Plessl, Marco Platzner, Andreas Agne, Markus Happe, and Enno Lübbers have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004098-2012-03-27"&gt;Programming models for reconfigurable heterogeneous multi-cores&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-10:/news/2012-04-10-Awareness-Magazine/</id><title type="html">Article on "Self-Awareness in Computing Systems" in Awareness Magazine</title>
 <published>2012-04-09T22:00:00Z</published><updated>2012-04-09T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-10-Awareness-Magazine/">
