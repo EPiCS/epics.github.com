@@ -42,8 +42,8 @@ a:hover{color:#B10064;}
 .image{float:left; margin:0px 19px 10px 0px; background:#E7E8EA; clear:both;}
 .caption{font-size:10px; line-height:100%; padding:4px 7px 4px 7px; border-bottom:1px solid #D8D9DB; border-top:1px solid #D7D7D7;}
 
-figure {text-align: center;}
-figcaption {font-size:10px; line-height:100%; padding:4px 7px 4px 7px; border-bottom:1px solid #D8D9DB; border-top:1px solid #D7D7D7;}
+figure {}
+figcaption {text-align: center; font-size:10px; line-height:100%; padding:4px 7px 4px 7px; border-bottom:1px solid #D8D9DB; border-top:1px solid #D7D7D7;}
 
 .consortium{border-bottom:1px dotted #999999; padding-bottom:11px; margin-bottom:25px;}
 #last_consortium{border:none; margin-bottom:0px;}
