@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2012-10-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2012-10-18T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2012-10-12:/news/2012-10-12-Bernhard-Dieber/</id><title type="html">Bernhard Dieber joins the EPiCS team at UNI-KLU</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2012-10-19:/news/2012-10-19-Borkmann-VDI-Award/</id><title type="html">Daniel Borkmann wins VDI award for his Master thesis</title>
+<published>2012-10-18T22:00:00Z</published><updated>2012-10-18T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-19-Borkmann-VDI-Award/">
+<content type="html">&lt;p&gt;&lt;img src="/news/borkmann-award.jpg" style="float:right;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;We are happy to announce that Daniel Borkmann who is part of the EPiCS team at ETH Zurich, has been awarded the 1. Förderpreis Award by the Association of Germany Engineers (VDI) for his Master's thesis "Lightweight Autonomic Network Architecture". Daniel's Mastersthesis has submitted to the &lt;a href="http://www.htwk-leipzig.de/en/"&gt;Leipzig University of Applied Sciences&lt;/a&gt; and was executed as a cooperation with ETH Zurich as part of the EPiCS project. The implementation of an adaptive networking stack that has been developed as part of his thesis is the foundation of the self-aware networking and protocol graph architecture in EPiCS.&lt;/p&gt;
+
+&lt;p&gt;We congratulate Daniel on this great success and recognition of his work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-12:/news/2012-10-12-Bernhard-Dieber/</id><title type="html">Bernhard Dieber joins the EPiCS team at UNI-KLU</title>
 <published>2012-10-11T22:00:00Z</published><updated>2012-10-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-12-Bernhard-Dieber/">
 <content type="html">&lt;p&gt;&lt;img src="/news/bernhard-dieber.jpg" style="float:right;" /&gt;&lt;/p&gt;
 
