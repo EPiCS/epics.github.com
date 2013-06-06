@@ -25,7 +25,7 @@
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
 &lt;img src="/news/fig/cain-bsc-award-illustration.png" width="70%" /&gt;
-&lt;figcaption&gt;Object trajectories are analysed to perform classification, which allows cameras to communicate more efficiently. Here, Camera B can distinguish between objects heading in different directions to ensure only Camera A uses computational resources searching for the blue object. The addition of classification increases efficiency of multi-camera tracking relative to the state of the art.&lt;/figcaption&gt;
+&lt;figcaption style="text-align: left;"&gt;Object trajectories are analysed to perform classification, which allows cameras to communicate more efficiently. Here, Camera B can distinguish between objects heading in different directions to ensure only Camera A uses computational resources searching for the blue object. The addition of classification increases efficiency of multi-camera tracking relative to the state of the art.&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
