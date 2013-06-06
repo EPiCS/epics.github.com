@@ -1,9 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-06-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
-<link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-06-06:/news/2013-06-06-Caine-Award-Nomination/</id><title type="html">Horatio Caine shortlisted for CREST BSc Final Year Project Award</title>
-<published>2013-06-05T22:00:00Z</published><updated>2013-06-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-06-06-Caine-Award-Nomination/">
-<content type="html">&lt;p&gt;We are pleased to announce that Horatio Caine has been shortlisted for the CREST annual prize for the &lt;a href="http://www0.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/BSC/index.html"&gt;BSc Final Year Computer Science Project of the Year&lt;/a&gt;.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://www.epics-project.eu/</id>
+  <title>EPiCS News</title>
+  <updated>2013-06-05T22:00:00Z</updated>
+  <link rel="alternate" href="http://www.epics-project.eu/">
+  <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
+  <author>
+    <name>The EPiCS Consortium</name>
+    <uri>http://www.epics-project.eu</uri>
+  </author>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-06-06:/news/2013-06-06-Caine-Award-Nomination/</id>
+    <title type="html">Horatio Caine shortlisted for CREST BSc Final Year Project Award</title>
+    <published>2013-06-05T22:00:00Z</published>
+    <updated>2013-06-05T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-06-06-Caine-Award-Nomination/">
+    <content type="html">&lt;p&gt;We are pleased to announce that Horatio Caine has been shortlisted for the CREST annual prize for the &lt;a href="http://www0.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/BSC/index.html"&gt;BSc Final Year Computer Science Project of the Year&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Horatio has just completed his BSc in Computer Science at the University of Birmingham, UK, where he collaborated with members of the EPiCS project on his Final Year Project entitled 'Prediction and Classification for Optimisation of Object Tracking in Market-Based Networks of Distributed Smart Cameras'.&lt;/p&gt;
 
@@ -13,18 +25,36 @@
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
 &lt;img src="/news/fig/cain-bsc-award-illustration.png" width="70%" /&gt;
-&lt;figcaption&gt;The figure caption goes here&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-12-03:/news/2012-12-03-Reconfig-Award/</id><title type="html">EPiCS team at UPB wins best paper award a the Int. Conference on Reconfigurable Computing and FPGAs</title>
-<published>2012-12-02T23:00:00Z</published><updated>2012-12-02T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-12-03-Reconfig-Award/">
-<content type="html">&lt;p&gt;We are happy to announce that Markus Happe, Hendrik Hangmann, Andreas Agne, and Christian Plessl from the EPiCS team at University of Paderborn have been awarded with the best paper award at the International Conference on Reconfigurable Computing and FPGAs for their paper &lt;a href="/publications/2012_happe_reconfig.pdf"&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-19:/news/2012-10-19-Borkmann-VDI-Award/</id><title type="html">Daniel Borkmann wins VDI award for his Master's thesis</title>
-<published>2012-10-18T22:00:00Z</published><updated>2012-10-18T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-19-Borkmann-VDI-Award/">
-<content type="html">&lt;p&gt;&lt;img src="/news/borkmann-award.jpg" style="float:right;" /&gt;&lt;/p&gt;
+&lt;figcaption&gt;Object trajectories are analysed to perform classification, which allows cameras to communicate more efficiently. Here, Camera B can distinguish between objects heading in different directions to ensure only Camera A uses computational resources searching for the blue object. The addition of classification increases efficiency of multi-camera tracking relative to the state of the art.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-12-03:/news/2012-12-03-Reconfig-Award/</id>
+    <title type="html">EPiCS team at UPB wins best paper award a the Int. Conference on Reconfigurable Computing and FPGAs</title>
+    <published>2012-12-02T23:00:00Z</published>
+    <updated>2012-12-02T23:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-12-03-Reconfig-Award/">
+    <content type="html">&lt;p&gt;We are happy to announce that Markus Happe, Hendrik Hangmann, Andreas Agne, and Christian Plessl from the EPiCS team at University of Paderborn have been awarded with the best paper award at the International Conference on Reconfigurable Computing and FPGAs for their paper &lt;a href="/publications/2012_happe_reconfig.pdf"&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-10-19:/news/2012-10-19-Borkmann-VDI-Award/</id>
+    <title type="html">Daniel Borkmann wins VDI award for his Master's thesis</title>
+    <published>2012-10-18T22:00:00Z</published>
+    <updated>2012-10-18T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-10-19-Borkmann-VDI-Award/">
+    <content type="html">&lt;p&gt;&lt;img src="/news/borkmann-award.jpg" style="float:right;" /&gt;&lt;/p&gt;
 
 &lt;p&gt;We are happy to announce that Daniel Borkmann who is part of the EPiCS team at ETH Zurich, has been awarded the 1. Förderpreis Award by the Association of Germany Engineers (VDI) for his Master's thesis &lt;a href="/publications/2012_borkmann_mastersthesis.pdf"&gt;Lightweight Autonomic Network Architecture&lt;/a&gt;. Daniel's Master's Thesis has been submitted to the &lt;a href="http://www.htwk-leipzig.de/en/"&gt;Leipzig University of Applied Sciences&lt;/a&gt; and was executed in cooperation with ETH Zurich as part of the EPiCS project. The implementation of an adaptive networking stack that has been developed as part of his thesis is the foundation of the self-aware networking and protocol graph architecture in EPiCS.&lt;/p&gt;
 
-&lt;p&gt;We congratulate Daniel on this great success and recognition of his work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-12:/news/2012-10-12-Bernhard-Dieber/</id><title type="html">Bernhard Dieber joins the EPiCS team at UNI-KLU</title>
-<published>2012-10-11T22:00:00Z</published><updated>2012-10-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-12-Bernhard-Dieber/">
-<content type="html">&lt;p&gt;&lt;img src="/news/bernhard-dieber.jpg" style="float:right;" /&gt;&lt;/p&gt;
+&lt;p&gt;We congratulate Daniel on this great success and recognition of his work!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-10-12:/news/2012-10-12-Bernhard-Dieber/</id>
+    <title type="html">Bernhard Dieber joins the EPiCS team at UNI-KLU</title>
+    <published>2012-10-11T22:00:00Z</published>
+    <updated>2012-10-11T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-10-12-Bernhard-Dieber/">
+    <content type="html">&lt;p&gt;&lt;img src="/news/bernhard-dieber.jpg" style="float:right;" /&gt;&lt;/p&gt;
 
 &lt;p&gt;My name is Bernhard Dieber and I have recently started to work in the EPICS project. I am pursuing my PhD at the Alpen-Adria Universität Klagenfurt working in the group of Prof. Bernhard Rinner.&lt;/p&gt;
 
@@ -32,19 +62,37 @@
 
 &lt;p&gt;Within the EPICS project I will be working on the resource-aware Middleware for camera networks.&lt;/p&gt;
 
-&lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id><title type="html">EPiCS software webpage added</title>
-<published>2012-09-30T22:00:00Z</published><updated>2012-09-30T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
-<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
-<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
-<content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
+&lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id>
+    <title type="html">EPiCS software webpage added</title>
+    <published>2012-09-30T22:00:00Z</published>
+    <updated>2012-09-30T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
+    <content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id>
+    <title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
+    <published>2012-08-31T22:00:00Z</published>
+    <updated>2012-08-31T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
+    <content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
 
 &lt;p&gt;Vivek Sabbineni has joined the EPiCS team at EADS. Vivek received his Master of Computer Science (2006) from Andhra University in India and then completed his Masters in System-on-Chip design (2009) at Lund University, Sweden. During his Master thesis studies he worked novel concepts for the architecture exploration of the ADRES processor from Inter University Micro Electronics Center (IMEC), Belgium.  After completing his master studies, he worked as a junior researcher (2010-2012) at the Barcelona Supercomputing center, Spain, on Worst Case Execution Time (WCET) analysis for hard real time systems. His current research topics are reconfigurable computing systems, architectures for real time systems and fault tolerance for avionic systems.&lt;/p&gt;
 
 &lt;p&gt;Within the EPiCS project Vivek will be responsible for investigating thread-level fault tolerance concepts for FPGA-based heterogeneous multi-core platforms comprising programmable and customised cores.&lt;/p&gt;
 
-&lt;p&gt;Welcome to the team!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id><title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
-<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-SRCS-Workshop/">
-<content type="html">&lt;p&gt;&lt;figure&gt;
+&lt;p&gt;Welcome to the team!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id>
+    <title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
+    <published>2012-08-31T22:00:00Z</published>
+    <updated>2012-08-31T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-SRCS-Workshop/">
+    <content type="html">&lt;p&gt;&lt;figure&gt;
 &lt;img src="/news/srcs12-workshop-groupshot.jpg" width="100%" /&gt;
 &lt;figcaption&gt;Group photo of the attendees of the SRCS'12 workshop (photo: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
@@ -61,17 +109,41 @@
 &lt;p&gt;&lt;figcaption&gt;Video of the closing discussion at the SRCS workshop (video: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
-<published>2012-04-29T22:00:00Z</published><updated>2012-04-29T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-30-Awareness-Magazine-Plessl/">
-<content type="html">&lt;p&gt;Christian Plessl, Marco Platzner, Andreas Agne, Markus Happe, and Enno Lübbers have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004098-2012-03-27"&gt;Programming models for reconfigurable heterogeneous multi-cores&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-10:/news/2012-04-10-Awareness-Magazine/</id><title type="html">Article on "Self-Awareness in Computing Systems" in Awareness Magazine</title>
-<published>2012-04-09T22:00:00Z</published><updated>2012-04-09T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-10-Awareness-Magazine/">
-<content type="html">&lt;p&gt;Peter Lewis, Xin Yao and Marco Platzner have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004093-2012-03-19"&gt;An outlook for self-awareness in computing systems&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-03-23:/news/2012-03-23-Wayne-Luk-Award/</id><title type="html">Wayne Luk received best paper award at ARC conference</title>
-<published>2012-03-22T23:00:00Z</published><updated>2012-03-22T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-03-23-Wayne-Luk-Award/">
-<content type="html">&lt;p&gt;Wayne Luk received the best paper award at the ARC 2012 conference for the paper &lt;a href="/publications/2012_jin_arc.pdf"&gt;Multi-level Customisation Framework for Curve Based Monte Carlo Financial Simulations&lt;/a&gt;. The research to this paper has been supported by EPiCS.&lt;/p&gt;
+&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id>
+    <title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
+    <published>2012-04-29T22:00:00Z</published>
+    <updated>2012-04-29T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-04-30-Awareness-Magazine-Plessl/">
+    <content type="html">&lt;p&gt;Christian Plessl, Marco Platzner, Andreas Agne, Markus Happe, and Enno Lübbers have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004098-2012-03-27"&gt;Programming models for reconfigurable heterogeneous multi-cores&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-04-10:/news/2012-04-10-Awareness-Magazine/</id>
+    <title type="html">Article on "Self-Awareness in Computing Systems" in Awareness Magazine</title>
+    <published>2012-04-09T22:00:00Z</published>
+    <updated>2012-04-09T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-04-10-Awareness-Magazine/">
+    <content type="html">&lt;p&gt;Peter Lewis, Xin Yao and Marco Platzner have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004093-2012-03-19"&gt;An outlook for self-awareness in computing systems&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-03-23:/news/2012-03-23-Wayne-Luk-Award/</id>
+    <title type="html">Wayne Luk received best paper award at ARC conference</title>
+    <published>2012-03-22T23:00:00Z</published>
+    <updated>2012-03-22T23:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-03-23-Wayne-Luk-Award/">
+    <content type="html">&lt;p&gt;Wayne Luk received the best paper award at the ARC 2012 conference for the paper &lt;a href="/publications/2012_jin_arc.pdf"&gt;Multi-level Customisation Framework for Curve Based Monte Carlo Financial Simulations&lt;/a&gt;. The research to this paper has been supported by EPiCS.&lt;/p&gt;
 
-&lt;p&gt;We congratulate Wayne and his team on this success and the recognition of their work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2011-09-02:/news/2011-09-02-EPiCS-Papers-FPL/</id><title type="html">EPiCS presentations at FPL'11</title>
-<published>2011-09-01T22:00:00Z</published><updated>2011-09-01T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2011-09-02-EPiCS-Papers-FPL/">
-<content type="html">&lt;p&gt;The EPiCS consortium will be well represented at the International Conference for Field Programmable Logic and Applications (FPL'11), which will be held from September 5-7 in Chania, Crete. The following papers will be presented as talks or in poster sessions:&lt;/p&gt;
+&lt;p&gt;We congratulate Wayne and his team on this success and the recognition of their work!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2011-09-02:/news/2011-09-02-EPiCS-Papers-FPL/</id>
+    <title type="html">EPiCS presentations at FPL'11</title>
+    <published>2011-09-01T22:00:00Z</published>
+    <updated>2011-09-01T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2011-09-02-EPiCS-Papers-FPL/">
+    <content type="html">&lt;p&gt;The EPiCS consortium will be well represented at the International Conference for Field Programmable Logic and Applications (FPL'11), which will be held from September 5-7 in Chania, Crete. The following papers will be presented as talks or in poster sessions:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;A. Agne, M. Platzner, and E. Lübbers. &lt;em&gt;Memory virtualization for multithreaded reconfigurable hardware.&lt;/em&gt; In Proc. Int. Conf. on Field Programmable Logic and Applications (FPL), Sept. 2011. To appear.&lt;/li&gt;
@@ -82,9 +154,15 @@
 &lt;/ul&gt;
 
 
-&lt;p&gt;If you are attending FPL, we invite you to seize the opportunity to discuss with the presenters about the EPiCS project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2011-08-18:/news/2011-08-18-more-publication-updates/</id><title type="html">Another major update to the publication list</title>
-<published>2011-08-17T22:00:00Z</published><updated>2011-08-17T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2011-08-18-more-publication-updates/">
-<content type="html">&lt;p&gt;We have added the following publications to the EPiCS publication list:&lt;/p&gt;
+&lt;p&gt;If you are attending FPL, we invite you to seize the opportunity to discuss with the presenters about the EPiCS project.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2011-08-18:/news/2011-08-18-more-publication-updates/</id>
+    <title type="html">Another major update to the publication list</title>
+    <published>2011-08-17T22:00:00Z</published>
+    <updated>2011-08-17T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2011-08-18-more-publication-updates/">
+    <content type="html">&lt;p&gt;We have added the following publications to the EPiCS publication list:&lt;/p&gt;
 
 &lt;ul&gt;
 &lt;li&gt;G. Chow, K. Kwok, W. Luk, and P. Leong. &lt;em&gt;Mixed precision comparison in reconfigurable systems.&lt;/em&gt; In Proc. IEEE Symp. on Field-Programmable Custom Computing Machines (FCCM), pages 17–24. IEEE, May 2011.&lt;/li&gt;
@@ -95,10 +173,30 @@
 &lt;/ul&gt;
 
 
-&lt;p&gt;For details please refer to our &lt;a href="/publications"&gt;publications list&lt;/a&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2011-08-09:/news/2011-08-09-publications-updated/</id><title type="html">The list of publications for the EPiCS project has been updated</title>
-<published>2011-08-08T22:00:00Z</published><updated>2011-08-08T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2011-08-09-publications-updated/">
-<content type="html">&lt;p&gt;The list of publications has been updated, see &lt;a href="/publications"&gt;publications&lt;/a&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2011-03-15:/news/2011-03-15-New-Website/</id><title type="html">The EPiCS project has a new website</title>
-<published>2011-03-14T23:00:00Z</published><updated>2011-03-14T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2011-03-15-New-Website/">
-<content type="html">&lt;p&gt;The EPiCS project has a new website, which has been designed by &lt;a href="http://www.goldmarie-design.de"&gt;Goldmarie Design Münster, Germany&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2010-12-20:/news/2010-12-20-Publication-Futurenet/</id><title type="html">First EPiCS publication at the IEEE FutureNet'11 workshop</title>
-<published>2010-12-19T23:00:00Z</published><updated>2010-12-19T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2010-12-20-Publication-Futurenet/">
-<content type="html">&lt;p&gt;We are happy to announce that the first publication resulting from the EPiCS project has been presented at the IEEE Globecom Workshop on Network of the Future (FutureNet).&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;For details please refer to our &lt;a href="/publications"&gt;publications list&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2011-08-09:/news/2011-08-09-publications-updated/</id>
+    <title type="html">The list of publications for the EPiCS project has been updated</title>
+    <published>2011-08-08T22:00:00Z</published>
+    <updated>2011-08-08T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2011-08-09-publications-updated/">
+    <content type="html">&lt;p&gt;The list of publications has been updated, see &lt;a href="/publications"&gt;publications&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2011-03-15:/news/2011-03-15-New-Website/</id>
+    <title type="html">The EPiCS project has a new website</title>
+    <published>2011-03-14T23:00:00Z</published>
+    <updated>2011-03-14T23:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2011-03-15-New-Website/">
+    <content type="html">&lt;p&gt;The EPiCS project has a new website, which has been designed by &lt;a href="http://www.goldmarie-design.de"&gt;Goldmarie Design Münster, Germany&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2010-12-20:/news/2010-12-20-Publication-Futurenet/</id>
+    <title type="html">First EPiCS publication at the IEEE FutureNet'11 workshop</title>
+    <published>2010-12-19T23:00:00Z</published>
+    <updated>2010-12-19T23:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2010-12-20-Publication-Futurenet/">
+    <content type="html">&lt;p&gt;We are happy to announce that the first publication resulting from the EPiCS project has been presented at the IEEE Globecom Workshop on Network of the Future (FutureNet).&lt;/p&gt;</content>
+  </entry>
+</feed>
