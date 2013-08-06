@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
 <updated>2013-08-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-06:/news/2013-08-06-CamSim-Released/</id><title type="html">CamSim simulator for distributed camera networks released</title>
-<published>2013-08-05T22:00:00Z</published><updated>2013-08-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-06-CamSim-Released/">
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-06:/news/2013-08-06-CAMSIM-Released/</id><title type="html">CamSim simulator for distributed camera networks released</title>
+<published>2013-08-05T22:00:00Z</published><updated>2013-08-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-06-CAMSIM-Released/">
 <content type="html">&lt;p&gt;&lt;a href="http://epics.github.io/CamSim"&gt;CamSim&lt;/a&gt;, the simulator for distributed smart camera networks, has just been released in its first version. In the last few months, the pre-release of CamSim went through various major refactoring processes.&lt;/p&gt;
 
 &lt;p class="center"&gt;
