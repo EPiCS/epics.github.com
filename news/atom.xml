@@ -1,7 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-07-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2013-08-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-01-Video-Challenge/</id><title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-06:/news/2013-08-06-CamSim-Released/</id><title type="html">CamSim simulator for distributed camera networks released</title>
+<published>2013-08-05T22:00:00Z</published><updated>2013-08-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-06-CamSim-Released/">
+<content type="html">&lt;p&gt;&lt;a href="http://epics.github.io/CamSim"&gt;CamSim&lt;/a&gt;, the simulator for distributed smart camera networks, has just been released in its first version. In the last few months, the pre-release of CamSim went through various major refactoring processes.&lt;/p&gt;
+
+&lt;p class="center"&gt;
+  &lt;iframe src="http://player.vimeo.com/video/70176909" width="500" height="292" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+
+&lt;p&gt;The key changes as well as benefits of CamSim are:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt; Ease of generating test scenarios, with cameras and objects limited only by computer memory.&lt;/li&gt;
+&lt;li&gt; Camera behaviour, using an economic and pheromone inspired approach is implemented, as well as several communication policies. These approaches and communication policies are described in &lt;a href="/publications/2013_esterle_tosn.pdf"&gt;Socio-Economic Vision Graph Generation and Handover in Distributed Smart Camera Networks&lt;/a&gt; by Lukas Esterle, Peter R. Lewis, Xin Yao and Bernhard Rinner.&lt;/li&gt;
+&lt;li&gt; Several bandit solvers are implemented to provide meta-management at the camera level, selecting between communication policies and auction strategies dynamically at runtime. This behaviour is described in &lt;a href="/publications/2013_lewis_saso.pdf"&gt;Learning to be Different: Heterogeneity and Efficiency in Distributed Smart Camera Networks&lt;/a&gt; by Peter R. Lewis, Lukas Esterle, Arjun Chandra, Bernhard Rinner and Xin Yao.&lt;/li&gt;
+&lt;li&gt; The motion behaviour of objects can be replaced using reflection mechanism. Besides prior known movements 'straight' and 'waypoints', where 'straight' defines movement in a straight line and random bouncing off the simulation boundary and 'waypoints' defines a movement along a predefined  path, another movement behaviour based on Brownian motion has been added to the collection.&lt;/li&gt;
+&lt;li&gt; All aspects of camera behaviour, including bandit solvers, communication strategies and pheromone learning can be replaced using reflection mechanisms.&lt;/li&gt;
+&lt;/ol&gt;
+
+
+&lt;p&gt;To provide prospective developers with a low entrance level, abstract classes are available for extension. Furthermore, introductory tutorials are available online at the GitHub Repository.&lt;/p&gt;
+
+&lt;p&gt;The first release can be downloaded from &lt;a href="https://github.com/EPiCS/CamSim/releases/tag/v1.0"&gt;https://github.com/EPiCS/CamSim/releases/tag/v1.0&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-01-Video-Challenge/</id><title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
 <published>2013-07-31T22:00:00Z</published><updated>2013-07-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-01-Video-Challenge/">
 <content type="html">&lt;p&gt;We are pleased to announce that &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt;. In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
 
@@ -49,7 +71,15 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 
 &lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id><title type="html">EPiCS software webpage added</title>
 <published>2012-09-30T22:00:00Z</published><updated>2012-09-30T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
-<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id><title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
+<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
+<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
+<content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vivek Sabbineni has joined the EPiCS team at EADS. Vivek received his Master of Computer Science (2006) from Andhra University in India and then completed his Masters in System-on-Chip design (2009) at Lund University, Sweden. During his Master thesis studies he worked novel concepts for the architecture exploration of the ADRES processor from Inter University Micro Electronics Center (IMEC), Belgium.  After completing his master studies, he worked as a junior researcher (2010-2012) at the Barcelona Supercomputing center, Spain, on Worst Case Execution Time (WCET) analysis for hard real time systems. His current research topics are reconfigurable computing systems, architectures for real time systems and fault tolerance for avionic systems.&lt;/p&gt;
+
+&lt;p&gt;Within the EPiCS project Vivek will be responsible for investigating thread-level fault tolerance concepts for FPGA-based heterogeneous multi-core platforms comprising programmable and customised cores.&lt;/p&gt;
+
+&lt;p&gt;Welcome to the team!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id><title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
 <published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-SRCS-Workshop/">
 <content type="html">&lt;p&gt;&lt;figure&gt;
 &lt;img src="/news/srcs12-workshop-groupshot.jpg" width="100%" /&gt;
@@ -68,15 +98,7 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 &lt;p&gt;&lt;figcaption&gt;Video of the closing discussion at the SRCS workshop (video: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
-<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
-<content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Vivek Sabbineni has joined the EPiCS team at EADS. Vivek received his Master of Computer Science (2006) from Andhra University in India and then completed his Masters in System-on-Chip design (2009) at Lund University, Sweden. During his Master thesis studies he worked novel concepts for the architecture exploration of the ADRES processor from Inter University Micro Electronics Center (IMEC), Belgium.  After completing his master studies, he worked as a junior researcher (2010-2012) at the Barcelona Supercomputing center, Spain, on Worst Case Execution Time (WCET) analysis for hard real time systems. His current research topics are reconfigurable computing systems, architectures for real time systems and fault tolerance for avionic systems.&lt;/p&gt;
-
-&lt;p&gt;Within the EPiCS project Vivek will be responsible for investigating thread-level fault tolerance concepts for FPGA-based heterogeneous multi-core platforms comprising programmable and customised cores.&lt;/p&gt;
-
-&lt;p&gt;Welcome to the team!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
+&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
 <published>2012-04-29T22:00:00Z</published><updated>2012-04-29T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-30-Awareness-Magazine-Plessl/">
 <content type="html">&lt;p&gt;Christian Plessl, Marco Platzner, Andreas Agne, Markus Happe, and Enno Lübbers have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004098-2012-03-27"&gt;Programming models for reconfigurable heterogeneous multi-cores&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-10:/news/2012-04-10-Awareness-Magazine/</id><title type="html">Article on "Self-Awareness in Computing Systems" in Awareness Magazine</title>
 <published>2012-04-09T22:00:00Z</published><updated>2012-04-09T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-10-Awareness-Magazine/">
@@ -110,6 +132,4 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 &lt;/ul&gt;
 
 
-&lt;p&gt;For details please refer to our &lt;a href="/publications"&gt;publications list&lt;/a&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2011-08-09:/news/2011-08-09-publications-updated/</id><title type="html">The list of publications for the EPiCS project has been updated</title>
-<published>2011-08-08T22:00:00Z</published><updated>2011-08-08T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2011-08-09-publications-updated/">
-<content type="html">&lt;p&gt;The list of publications has been updated, see &lt;a href="/publications"&gt;publications&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;For details please refer to our &lt;a href="/publications"&gt;publications list&lt;/a&gt;&lt;/p&gt;</content></entry></feed>
