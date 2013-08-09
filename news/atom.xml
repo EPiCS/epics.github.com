@@ -1,7 +1,42 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-08-06T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2013-08-08T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-07:/news/2013-08-07-Ella-Released/</id><title type="html">Ella distributed publish/subscribe middleware released</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-09:/news/2013-08-09-Peter-Lewis-Exchange/</id><title type="html">Research Exchange of Peter Lewis with Politecnico di Milano</title>
+<published>2013-08-08T22:00:00Z</published><updated>2013-08-08T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-09-Peter-Lewis-Exchange/">
+<content type="html">&lt;p&gt;Dr. Peter Lewis, who is based at the University of Birmingham and works
+on the EPiCS project, visited Professor Marco Santambrogio at the NECST
+Lab at the Politecnico di Milano on a Research Exchange visit. The
+visit took place between the 19th and 21st March 2013, and enabled these
+two active researchers in the field of self-aware computing to explore
+several collaborations and areas for future research.&lt;/p&gt;
+
+&lt;p&gt;Dr. Lewis's work in the EPiCS project has been primarily concerned with
+developing concepts and foundations for computational self-awareness. On
+the conceptual side, his recent work includes the development of a
+psychology-inspired conceptual framework for describing and comparing
+computational self-awareness capabilities. On the foundational side, his
+work has involved developing and applying novel nature-inspired learning
+and adaptation algorithms to realise the vision of computational
+self-awareness, e.g. in distributed smart camera networks. This work
+forms a core aspect of the EPiCS project.&lt;/p&gt;
+
+&lt;p&gt;Dr. Lewis gave an invited talk, describing the developed conceptual
+framework for computational self-awareness and how the capabilities it
+describes it could be implemented. The talk generated a lively
+discussion amongst researchers and students from disparate backgrounds
+including electronic and computer engineering, context aware systems,
+bioengineering and control theory. Several collaboration scoping
+sessions were conducted, with researchers from a range of fields. In
+particular, focus areas included how to apply meta-self-aware algorithm
+selection to a self-adaptive fault tolerance problem, and the
+relationship between computational self-awareness, context awareness and
+control theory.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure style="text-align: center;"&gt;
+&lt;img src="/news/fig/peter-lewis-talk.jpg" width="72%" /&gt;
+&lt;figcaption style="text-align: left;"&gt;Peter Lewis is giving an invited talk describing the developed conceptual
+framework for computational self-awareness and how the capabilities it describes it could be implemented.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-07:/news/2013-08-07-Ella-Released/</id><title type="html">Ella distributed publish/subscribe middleware released</title>
 <published>2013-08-06T22:00:00Z</published><updated>2013-08-06T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-07-Ella-Released/">
 <content type="html">&lt;p&gt;Ella, the Middleware developed in the EPiCS Project, has just been released as open source.&lt;/p&gt;
 
@@ -112,17 +147,4 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 <published>2012-03-22T23:00:00Z</published><updated>2012-03-22T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-03-23-Wayne-Luk-Award/">
 <content type="html">&lt;p&gt;Wayne Luk received the best paper award at the ARC 2012 conference for the paper &lt;a href="/publications/2012_jin_arc.pdf"&gt;Multi-level Customisation Framework for Curve Based Monte Carlo Financial Simulations&lt;/a&gt;. The research to this paper has been supported by EPiCS.&lt;/p&gt;
 
-&lt;p&gt;We congratulate Wayne and his team on this success and the recognition of their work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2011-09-02:/news/2011-09-02-EPiCS-Papers-FPL/</id><title type="html">EPiCS presentations at FPL'11</title>
-<published>2011-09-01T22:00:00Z</published><updated>2011-09-01T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2011-09-02-EPiCS-Papers-FPL/">
-<content type="html">&lt;p&gt;The EPiCS consortium will be well represented at the International Conference for Field Programmable Logic and Applications (FPL'11), which will be held from September 5-7 in Chania, Crete. The following papers will be presented as talks or in poster sessions:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;A. Agne, M. Platzner, and E. Lübbers. &lt;em&gt;Memory virtualization for multithreaded reconfigurable hardware.&lt;/em&gt; In Proc. Int. Conf. on Field Programmable Logic and Applications (FPL), Sept. 2011. To appear.&lt;/li&gt;
-&lt;li&gt;T. Becker, Q. Liu, W. Luk, G. Nebehay, and R. Pflugfelder. &lt;em&gt;Hardware-accelerated object tracking.&lt;/em&gt; In Proc. Int. Conf. on Field Programmable Logic and Applications (FPL), Sept. 2011. To appear.&lt;/li&gt;
-&lt;li&gt;M. Happe and E. Lübbers. &lt;em&gt;A hybrid multi-core architecture for real-time video tracking.&lt;/em&gt; In Proc. Int. Conf. on Field Programmable Logic and Applications (FPL), Sept. 2011. To appear.&lt;/li&gt;
-&lt;li&gt;Q. Jin, W. Luk, and D. Thomas. &lt;em&gt;Unifying option-pricing designs for hardware acceleration.&lt;/em&gt; In Proc. Int. Conf. on Field Programmable Logic and Applications (FPL), Sept. 2011. To appear.&lt;/li&gt;
-&lt;li&gt;X. Y. Niu, K. H. Tsoi, and W. Luk. &lt;em&gt;Reconfiguring distributed applications in FPGA accelerated cluster with wireless networking.&lt;/em&gt; In Proc. Int. Conf. on Field Programmable Logic and Applications (FPL), Sept. 2011. To appear.&lt;/li&gt;
-&lt;/ul&gt;
-
-
-&lt;p&gt;If you are attending FPL, we invite you to seize the opportunity to discuss with the presenters about the EPiCS project.&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;We congratulate Wayne and his team on this success and the recognition of their work!&lt;/p&gt;</content></entry></feed>
