@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-08-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2013-08-19T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-12:/news/2013-08-12-EPiCS-Video-Channel/</id><title type="html">EPiCS Video Channel</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-08-20:/news/2013-08-01-Video-Challenge/</id><title type="html">Deadline for EPiCS Video Student Contest extended</title>
+<published>2013-08-19T22:00:00Z</published><updated>2013-08-19T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-01-Video-Challenge/">
+<content type="html">&lt;p&gt;We have extended the deadline for submissions to the &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt; to August 31.&lt;/p&gt;
+
+&lt;p&gt;In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
+
+&lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-12:/news/2013-08-12-EPiCS-Video-Channel/</id><title type="html">EPiCS Video Channel</title>
 <published>2013-08-11T22:00:00Z</published><updated>2013-08-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-12-EPiCS-Video-Channel/">
 <content type="html">&lt;p&gt;We are happy to announce that the EPiCS consortium has setup an &lt;a href="https://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt; at Vimeo, where we share videos for demonstrating and disseminating our research results to a broad audience. The first couple of videos have been already published and several new videos are currently in production. Stay tuned!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-09:/news/2013-08-09-Peter-Lewis-Exchange/</id><title type="html">Research Exchange of Peter Lewis with Politecnico di Milano</title>
 <published>2013-08-08T22:00:00Z</published><updated>2013-08-08T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-09-Peter-Lewis-Exchange/">
@@ -66,8 +72,8 @@ framework for computational self-awareness and how the capabilities it describes
 
 &lt;p&gt;To provide prospective developers with a low entrance level, abstract classes are available for extension. Furthermore, introductory tutorials are available online at the GitHub Repository.&lt;/p&gt;
 
-&lt;p&gt;The first release can be downloaded from &lt;a href="https://github.com/EPiCS/CamSim/releases/tag/v1.0"&gt;https://github.com/EPiCS/CamSim/releases/tag/v1.0&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-01-Video-Challenge/</id><title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
-<published>2013-07-31T22:00:00Z</published><updated>2013-07-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-01-Video-Challenge/">
+&lt;p&gt;The first release can be downloaded from &lt;a href="https://github.com/EPiCS/CamSim/releases/tag/v1.0"&gt;https://github.com/EPiCS/CamSim/releases/tag/v1.0&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-20-Video-Challenge-Extended/</id><title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
+<published>2013-07-31T22:00:00Z</published><updated>2013-07-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-20-Video-Challenge-Extended/">
 <content type="html">&lt;p&gt;We are pleased to announce that &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt;. In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
 
 &lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-07-15:/news/2013-07-15-Tatiana-Djaba-Nya/</id><title type="html">Tatiana Djaba Nya joins the EPiCS team at EADS</title>
@@ -114,15 +120,7 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 
 &lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id><title type="html">EPiCS software webpage added</title>
 <published>2012-09-30T22:00:00Z</published><updated>2012-09-30T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
-<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
-<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
-<content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Vivek Sabbineni has joined the EPiCS team at EADS. Vivek received his Master of Computer Science (2006) from Andhra University in India and then completed his Masters in System-on-Chip design (2009) at Lund University, Sweden. During his Master thesis studies he worked novel concepts for the architecture exploration of the ADRES processor from Inter University Micro Electronics Center (IMEC), Belgium.  After completing his master studies, he worked as a junior researcher (2010-2012) at the Barcelona Supercomputing center, Spain, on Worst Case Execution Time (WCET) analysis for hard real time systems. His current research topics are reconfigurable computing systems, architectures for real time systems and fault tolerance for avionic systems.&lt;/p&gt;
-
-&lt;p&gt;Within the EPiCS project Vivek will be responsible for investigating thread-level fault tolerance concepts for FPGA-based heterogeneous multi-core platforms comprising programmable and customised cores.&lt;/p&gt;
-
-&lt;p&gt;Welcome to the team!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id><title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
+<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id><title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
 <published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-SRCS-Workshop/">
 <content type="html">&lt;p&gt;&lt;figure&gt;
 &lt;img src="/news/srcs12-workshop-groupshot.jpg" width="100%" /&gt;
@@ -141,8 +139,14 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 &lt;p&gt;&lt;figcaption&gt;Video of the closing discussion at the SRCS workshop (video: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
+&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
+<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
+<content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
+
+&lt;p&gt;Vivek Sabbineni has joined the EPiCS team at EADS. Vivek received his Master of Computer Science (2006) from Andhra University in India and then completed his Masters in System-on-Chip design (2009) at Lund University, Sweden. During his Master thesis studies he worked novel concepts for the architecture exploration of the ADRES processor from Inter University Micro Electronics Center (IMEC), Belgium.  After completing his master studies, he worked as a junior researcher (2010-2012) at the Barcelona Supercomputing center, Spain, on Worst Case Execution Time (WCET) analysis for hard real time systems. His current research topics are reconfigurable computing systems, architectures for real time systems and fault tolerance for avionic systems.&lt;/p&gt;
+
+&lt;p&gt;Within the EPiCS project Vivek will be responsible for investigating thread-level fault tolerance concepts for FPGA-based heterogeneous multi-core platforms comprising programmable and customised cores.&lt;/p&gt;
+
+&lt;p&gt;Welcome to the team!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-30:/news/2012-04-30-Awareness-Magazine-Plessl/</id><title type="html">Article on "Programming models for reconfigurable heterogeneous multi-cores" in Awareness Magazine</title>
 <published>2012-04-29T22:00:00Z</published><updated>2012-04-29T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-30-Awareness-Magazine-Plessl/">
-<content type="html">&lt;p&gt;Christian Plessl, Marco Platzner, Andreas Agne, Markus Happe, and Enno Lübbers have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004098-2012-03-27"&gt;Programming models for reconfigurable heterogeneous multi-cores&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-04-10:/news/2012-04-10-Awareness-Magazine/</id><title type="html">Article on "Self-Awareness in Computing Systems" in Awareness Magazine</title>
-<published>2012-04-09T22:00:00Z</published><updated>2012-04-09T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-04-10-Awareness-Magazine/">
-<content type="html">&lt;p&gt;Peter Lewis, Xin Yao and Marco Platzner have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004093-2012-03-19"&gt;An outlook for self-awareness in computing systems&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry></feed>
+<content type="html">&lt;p&gt;Christian Plessl, Marco Platzner, Andreas Agne, Markus Happe, and Enno Lübbers have contributed an article named &lt;a href="http://www.awareness-mag.eu/view.php?source=004098-2012-03-27"&gt;Programming models for reconfigurable heterogeneous multi-cores&lt;/a&gt; to the Awareness Magazine.&lt;/p&gt;</content></entry></feed>
