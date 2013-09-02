@@ -83,6 +83,17 @@ interrupt handling.</p>
 
 <p>ReconOS also includes a dynamic network protocol stack developed by ETH Zurich.</p>
 
+<h3>FPGA Heater Cores (<a href="http://www.epics-project.eu/fpga-heater">http://www.epics-project.eu/fpga-heater</a>)</h3>
+
+<p>
+In the publication ``M. Happe, H. Hangmann, A. Agne, and C. Plessl. <i>Eight ways to put your FPGA on fire – a systematic study of heat generators.</i> In Proc. Int. Conf. on ReConFigurable Computing and FPGAs (ReConFig), pages 1–8. IEEE Computer Society, Dec. 2012.'', which won the best paper award at the ReConFig'2012 conference, University of Paderborn has presented a study on the systematic design and evaluation of circuits that are optimised for generating a maximum amount of heat on FPGAs. Such heater cores can be used for automatically generating and calibrating thermal models of FPGA devices. Also the heater cores can be used to expose distinct areas of the devices to high temperatures with the objective to induce soft-errors, due to an increase in switching time.
+</p>
+
+<p>
+To make the heater cores available for other researchers for experimentation, we have released them as pcore modules, that can be integrated as components in Xilinx FPGA designs. The amount of heat that is generated can be adjusted in 32 levels.
+</p>
+
+
 <h3>Netsniff-NG (<a href="https://github.com/borkmann/netsniff-ng">https://github.com/borkmann/netsniff-ng</a>)</h3>
 
 <p>For development, performance testing and debugging purposes of the dynamic
@@ -135,7 +146,7 @@ To test and evaluate different strategies for tracking coordination in distribut
 
 <div style="clear:both;"></div>
 
-<div id="footer">© University of Paderborn, Germany | <a href="../imprint/">Imprint</a> | Last Updated Aug 07, 2013</div>
+<div id="footer">© University of Paderborn, Germany | <a href="../imprint/">Imprint</a> | Last Updated Sep 02, 2013</div>
 
 
 </body>
