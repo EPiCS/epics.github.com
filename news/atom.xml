@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-08-31T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2013-09-24T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-09-01:/news/2013-09-01-FPGA-Heater-Cores-released/</id><title type="html">FPGA Heater Cores released</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id><title type="html">Introduction to the Ella Middleware</title>
+<published>2013-09-24T23:00:00Z</published><updated>2013-09-24T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-09-25-Introduction-to-Ella-Middleware/">
+<content type="html">&lt;p&gt;We have just published an introductory article for the Ella middleware on the Codeproject developer portal. The article covers the basics of publish/subscribe and how to write publishers and subscribers using Ella.&lt;/p&gt;
+
+&lt;p&gt;The article can be found at &lt;a href="here"&gt;http://www.codeproject.com/Articles/655774/Ella-publish-subscribe-middleware&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-09-01:/news/2013-09-01-FPGA-Heater-Cores-released/</id><title type="html">FPGA Heater Cores released</title>
 <published>2013-08-31T23:00:00Z</published><updated>2013-08-31T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-09-01-FPGA-Heater-Cores-released/">
 <content type="html">&lt;p&gt;In the publication "M. Happe, H. Hangmann, A. Agne, and C. Plessl. &lt;strong&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators.&lt;/strong&gt; In Proc. Int. Conf. on ReConFigurable Computing and FPGAs (ReConFig), pages 1–8. IEEE Computer Society, Dec. 2012.", which won the best paper award at the ReConFig'2012 conference, University of Paderborn has presented a study on the systematic design and evaluation of circuits that are optimised for generating a maximum amount of heat on FPGAs. Such heater cores can be used for automatically generating and calibrating thermal models of FPGA devices. Also the heater cores can be used to expose distinct areas of the devices to high temperatures with the objective to induce soft-errors, due to an increase in switching time.&lt;/p&gt;
 
@@ -126,26 +130,7 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 
 &lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id><title type="html">EPiCS software webpage added</title>
 <published>2012-09-30T23:00:00Z</published><updated>2012-09-30T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
-<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-SRCS-Workshop/</id><title type="html">Workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS) held in Oslo</title>
-<published>2012-08-31T23:00:00Z</published><updated>2012-08-31T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-SRCS-Workshop/">
-<content type="html">&lt;p&gt;&lt;figure&gt;
-&lt;img src="/news/srcs12-workshop-groupshot.jpg" width="100%" /&gt;
-&lt;figcaption&gt;Group photo of the attendees of the SRCS'12 workshop (photo: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk"&gt;2012 workshop on Self-Awareness in Reconfigurable Computing Systems (SRCS)&lt;/a&gt; was organised to bring together researchers who are active in the field of self-awareness, reconfigurable computing and related areas. Research on reconfigurable computing, involving technologies such as FPGAs, has long been concerned with reconfiguration and adaptation of circuits at run-time. Self-awareness is an emerging field of research that extends this line of research: it involves advanced concepts such as reasoning and learning in order to facilitate self- adaptation and self-optimisation. Self-awareness and the engineering of self-aware applications in the context of reconfigurable technology are also concepts that are fundamental to EPiCS. The workshop was initiated by members of the EPiCS consortium to achieve an active exchange between researchers to share their visions on general concepts and foundations of self-awareness as well as the practical transfer of these concepts to reconfigurable computing.&lt;/p&gt;
-
-&lt;p&gt;The workshop received submissions from all over the world, and through peer-review, 6 were selected for regular presentation and 6 were selected for poster presentation. The workshop also included 3 invited talks from industry and academia. The workshop took place on 1. September in Oslo, Norway, co-located with the &lt;a href="http://fpl2012.org"&gt;2012 International Conference on Field Programmable Logic and Applications (FPL)&lt;/a&gt;. The workshop was attended by 30 participants and featured a rich technical program followed by an extensive closing discussion.&lt;/p&gt;
-
-&lt;p&gt;&lt;figure&gt;&lt;/p&gt;
-
-&lt;iframe src="http://player.vimeo.com/video/50681080?title=0&amp;amp;byline=0&amp;amp;portrait=0" style="display: block; margin: 0 auto; width: 600px; height: 337px;" width="600" height="337" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
-
-
-&lt;p&gt;&lt;figcaption&gt;Video of the closing discussion at the SRCS workshop (video: Jennifer Willies, Awareness CSA)&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href="http://srcs12.doc.ic.ac.uk/proceedings.html"&gt;workshop proceedings&lt;/a&gt; are available online.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
+<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
 <published>2012-08-31T23:00:00Z</published><updated>2012-08-31T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
 <content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
 
