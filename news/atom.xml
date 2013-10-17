@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-09-24T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2013-10-16T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id><title type="html">Introduction to the Ella Middleware</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id><title type="html">EPiCS Video Student Contest Awards</title>
+<published>2013-10-16T22:00:00Z</published><updated>2013-10-16T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
+<content type="html">&lt;p&gt;We are happy to announce the winners of the EPiCS Video Student contest:&lt;/p&gt;
+
+&lt;p&gt;The following two videos have been awarded a price:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Adaptive Online Tracker&lt;/strong&gt;  created by Alankar Aryal Atreya (Alpen-Adria Universität Klagenfurt)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Self-Awareness in Technical Systems&lt;/strong&gt;  created by Nadjia Pejic and Jan Krehler (University of Paderborn).&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;We congratulate the authors of these excellent and entertaining videos for their prizes. Both videos can be watched on the &lt;a href="http://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id><title type="html">Introduction to the Ella Middleware</title>
 <published>2013-09-24T22:00:00Z</published><updated>2013-09-24T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-09-25-Introduction-to-Ella-Middleware/">
 <content type="html">&lt;p&gt;We have just published an introductory article for the Ella middleware on the Codeproject developer portal. The article covers the basics of publish/subscribe and how to write publishers and subscribers using Ella.&lt;/p&gt;
 
@@ -130,12 +142,4 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 
 &lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id><title type="html">EPiCS software webpage added</title>
 <published>2012-09-30T22:00:00Z</published><updated>2012-09-30T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
-<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-09-01:/news/2012-09-01-Vivek-Sabbnieni/</id><title type="html">Vivek Sabbineni joins the EPiCS team at EADS</title>
-<published>2012-08-31T22:00:00Z</published><updated>2012-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-09-01-Vivek-Sabbnieni/">
-<content type="html">&lt;p&gt;&lt;img src="/news/vivek-sabbineni.jpg" style="float:right;" /&gt;&lt;/p&gt;
-
-&lt;p&gt;Vivek Sabbineni has joined the EPiCS team at EADS. Vivek received his Master of Computer Science (2006) from Andhra University in India and then completed his Masters in System-on-Chip design (2009) at Lund University, Sweden. During his Master thesis studies he worked novel concepts for the architecture exploration of the ADRES processor from Inter University Micro Electronics Center (IMEC), Belgium.  After completing his master studies, he worked as a junior researcher (2010-2012) at the Barcelona Supercomputing center, Spain, on Worst Case Execution Time (WCET) analysis for hard real time systems. His current research topics are reconfigurable computing systems, architectures for real time systems and fault tolerance for avionic systems.&lt;/p&gt;
-
-&lt;p&gt;Within the EPiCS project Vivek will be responsible for investigating thread-level fault tolerance concepts for FPGA-based heterogeneous multi-core platforms comprising programmable and customised cores.&lt;/p&gt;
-
-&lt;p&gt;Welcome to the team!&lt;/p&gt;</content></entry></feed>
+<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry></feed>
