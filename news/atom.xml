@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2013-10-16T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2014-03-28T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id><title type="html">EPiCS Video Student Contest Awards</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id><title type="html">EPiCS in Norvegian Media</title>
+<published>2014-03-28T23:00:00Z</published><updated>2014-03-28T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2014-03-29-EPiCS-Article-Aftenposten/">
+<content type="html">&lt;p&gt;The largest newspaper in Norway, Aftenposten, published on 29 March, 2014 on their web page a popular science article prepared by the EPiCS partner University of Oslo, featuring their work in active music systems in the project. This application is used as an example of novel work in the field of artificial intelligence. The article (in Norwegian) can be found &lt;a href="http://www.aftenposten.no/viten/Liv-i-kunstig-intelligens-7513684.html"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id><title type="html">EPiCS Video Student Contest Awards</title>
 <published>2013-10-16T22:00:00Z</published><updated>2013-10-16T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
 <content type="html">&lt;p&gt;We are happy to announce the winners of the EPiCS Video Student contest:&lt;/p&gt;
 
@@ -140,6 +142,4 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 
 &lt;p&gt;Within the EPICS project I will be working on the resource-aware Middleware for camera networks.&lt;/p&gt;
 
-&lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-01:/news/2012-10-01-EPiCS-Software/</id><title type="html">EPiCS software webpage added</title>
-<published>2012-09-30T22:00:00Z</published><updated>2012-09-30T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-01-EPiCS-Software/">
-<content type="html">&lt;p&gt;Over the course of the project, several software projects have been developed. We are happy to announce that the results of several efforts have been released as open-source software. For providing a clear and compact presentation of all open-source software efforts within EPiCS, we have added a dedicated &lt;a href="/software"&gt;software section&lt;/a&gt; to the EPiCS website.&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry></feed>
