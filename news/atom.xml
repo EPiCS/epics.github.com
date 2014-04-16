@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2014-03-28T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
+<updated>2014-04-15T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
 <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id><title type="html">EPiCS in Norvegian Media</title>
+<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2014-04-16:/news/2014-04-16-Nebehay-Best-Paper-Award/</id><title type="html">Best paper award for Georg Nebehay and Roman Pflugfelder at WACV'14</title>
+<published>2014-04-15T22:00:00Z</published><updated>2014-04-15T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2014-04-16-Nebehay-Best-Paper-Award/">
+<content type="html">&lt;p&gt;We are happy to announce that Georg Nebehay and Roman Pflugfelder, who work on EPiCS at AIT, have receive the best paper award of the &lt;a href="http://www.wacv14.org/"&gt;WACV'14 conference&lt;/a&gt; for their paper &lt;a href="/publications/nebehay14_wacv.pdf"&gt;Consensus-based Matching and Tracking of Keypoints for Object Tracking&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure style="text-align: center;"&gt;
+&lt;img src="/news/nebehay-voting.png" width="100%" /&gt;
+&lt;figcaption style="text-align: left;"&gt;Caption.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;
+
+&lt;p&gt;Consensus-based Matching and Tracking of Keypoints (CMT) is an object tracking algorithm that is able to visually track a wide variety of object classes in a multitude of scenes without the need of adapting the algorithm to specific scenarios in any way. The novelty of our approach is a keypoint-based object representation, where each keypoint votes independently for the location of the object of interest. Experiments have shown that CMT is able to achieve excellent results on a dataset that is as large as 60 sequences. The Python implementation for this work is freely available under the BSD license &lt;a href="https://github.com/gnebehay/CMT"&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We congratulate Georg and Roman on this great success and recognition of their work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id><title type="html">EPiCS in Norvegian Media</title>
 <published>2014-03-28T23:00:00Z</published><updated>2014-03-28T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2014-03-29-EPiCS-Article-Aftenposten/">
 <content type="html">&lt;p&gt;The largest newspaper in Norway, Aftenposten, published on 29 March, 2014 on their web page a popular science article prepared by the EPiCS partner University of Oslo, featuring their work in active music systems in the project. This application is used as an example of novel work in the field of artificial intelligence. The article (in Norwegian) can be found &lt;a href="http://www.aftenposten.no/viten/Liv-i-kunstig-intelligens-7513684.html"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id><title type="html">EPiCS Video Student Contest Awards</title>
 <published>2013-10-16T22:00:00Z</published><updated>2013-10-16T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
@@ -132,14 +143,4 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 
 &lt;p&gt;We are happy to announce that Daniel Borkmann who is part of the EPiCS team at ETH Zurich, has been awarded the 1. Förderpreis Award by the Association of Germany Engineers (VDI) for his Master's thesis &lt;a href="/publications/2012_borkmann_mastersthesis.pdf"&gt;Lightweight Autonomic Network Architecture&lt;/a&gt;. Daniel's Master's Thesis has been submitted to the &lt;a href="http://www.htwk-leipzig.de/en/"&gt;Leipzig University of Applied Sciences&lt;/a&gt; and was executed in cooperation with ETH Zurich as part of the EPiCS project. The implementation of an adaptive networking stack that has been developed as part of his thesis is the foundation of the self-aware networking and protocol graph architecture in EPiCS.&lt;/p&gt;
 
-&lt;p&gt;We congratulate Daniel on this great success and recognition of his work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-10-12:/news/2012-10-12-Bernhard-Dieber/</id><title type="html">Bernhard Dieber joins the EPiCS team at UNI-KLU</title>
-<published>2012-10-11T22:00:00Z</published><updated>2012-10-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-10-12-Bernhard-Dieber/">
-<content type="html">&lt;p&gt;&lt;img src="/news/bernhard-dieber.jpg" style="float:right;" /&gt;&lt;/p&gt;
-
-&lt;p&gt;My name is Bernhard Dieber and I have recently started to work in the EPICS project. I am pursuing my PhD at the Alpen-Adria Universität Klagenfurt working in the group of Prof. Bernhard Rinner.&lt;/p&gt;
-
-&lt;p&gt;In my research work I am working on resource awareness in visual sensor networks. In my previous project we have been working on a resource-aware sensor network tailored for deployment in areas with no infrastructure. We have built a camera network which is energy autarkic and can be powered from e.g. solar cells. Our use case in this project was the deployment of this network in a national park to detect events ranging from animal activity to intrusion detection, see &lt;a href="project%20website"&gt;http://srsnet.lakeside-labs.com&lt;/a&gt;. My part in this project was to design a distributed reconfiguration algorithm to configure the network for both, optimal performance and minimal energy demand.&lt;/p&gt;
-
-&lt;p&gt;Within the EPICS project I will be working on the resource-aware Middleware for camera networks.&lt;/p&gt;
-
-&lt;p&gt;I am looking forward to working with you in this exciting project.&lt;/p&gt;</content></entry></feed>
+&lt;p&gt;We congratulate Daniel on this great success and recognition of his work!&lt;/p&gt;</content></entry></feed>
