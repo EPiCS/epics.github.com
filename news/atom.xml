@@ -7,7 +7,7 @@
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
 &lt;img src="/news/nebehay-voting.png" width="100%" /&gt;
-&lt;figcaption style="text-align: left;"&gt;Caption.&lt;/figcaption&gt;
+&lt;figcaption style="text-align: left;"&gt;Keypoints (white) vote for the object center (green) while taking into account the mutal keypoint constellation (red). The object is localized by establishing consensus in the voting behaviour.&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;
 
 &lt;p&gt;Consensus-based Matching and Tracking of Keypoints (CMT) is an object tracking algorithm that is able to visually track a wide variety of object classes in a multitude of scenes without the need of adapting the algorithm to specific scenarios in any way. The novelty of our approach is a keypoint-based object representation, where each keypoint votes independently for the location of the object of interest. Experiments have shown that CMT is able to achieve excellent results on a dataset that is as large as 60 sequences. The Python implementation for this work is freely available under the BSD license &lt;a href="https://github.com/gnebehay/CMT"&gt;here&lt;/a&gt;.&lt;/p&gt;
