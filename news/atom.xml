@@ -1,18 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom"><id>http://www.epics-project.eu/</id><title>EPiCS News</title>
-<updated>2014-06-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/">
-<link rel="self" href="http://www.epics-project.eu/news/atom.xml">
-<author><name>The EPiCS Consortium</name><uri>http://www.epics-project.eu</uri></author><entry><id>tag:www.epics-project.eu,2014-06-12:/news/2014-06-12-Jennifer-Simonjan-Award/</id><title type="html">Best performing student award for Jennifer Simonjan</title>
-<published>2014-06-11T22:00:00Z</published><updated>2014-06-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2014-06-12-Jennifer-Simonjan-Award/">
-<content type="html">&lt;p&gt;We are happy to announce that Jennifer Simonjan – a student researcher of the EPiCS team at Alpen-Adria-Universität (AAU) Klagenfurt – received the &lt;strong&gt;Best Performing Student Award&lt;/strong&gt; of the Faculty of Technical Sciences at AAU. This award is handed over to the faculty’s top performing students of the year. Jennifer also completed her master study with distinction three weeks ago.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://www.epics-project.eu/</id>
+  <title>EPiCS News</title>
+  <updated>2014-06-11T22:00:00Z</updated>
+  <link rel="alternate" href="http://www.epics-project.eu/">
+  <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
+  <author>
+    <name>The EPiCS Consortium</name>
+    <uri>http://www.epics-project.eu</uri>
+  </author>
+  <entry>
+    <id>tag:www.epics-project.eu,2014-06-12:/news/2014-06-12-Jennifer-Simonjan-Award/</id>
+    <title type="html">Best performing student award for Jennifer Simonjan</title>
+    <published>2014-06-11T22:00:00Z</published>
+    <updated>2014-06-11T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-12-Jennifer-Simonjan-Award/">
+    <content type="html">&lt;p&gt;We are happy to announce that Jennifer Simonjan – a student researcher of the EPiCS team at Alpen-Adria-Universität (AAU) Klagenfurt – received the &lt;strong&gt;Best Performing Student Award&lt;/strong&gt; of the Faculty of Technical Sciences at AAU. This award is handed over to the faculty’s top performing students of the year. Jennifer also completed her master study with distinction three weeks ago.&lt;/p&gt;
 
 &lt;p&gt;Let’s congratulate Jennifer for this great success!&lt;/p&gt;
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
 &lt;img src="/news/fig/jennifer-simonjan-award.jpg" width="100%" /&gt;
 &lt;figcaption style="text-align: left;"&gt;Jennifer Simonjan receiving the &lt;em&gt;Best Performing Student Award&lt;/em&gt; of the Faculty of Technical Sciences at Alpen-Adria-University (AAU) Klagenfurt.&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2014-04-16:/news/2014-04-16-Nebehay-Best-Paper-Award/</id><title type="html">Best paper award for Georg Nebehay and Roman Pflugfelder at WACV'14</title>
-<published>2014-04-15T22:00:00Z</published><updated>2014-04-15T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2014-04-16-Nebehay-Best-Paper-Award/">
-<content type="html">&lt;p&gt;We are happy to announce that Georg Nebehay and Roman Pflugfelder, who work on EPiCS at AIT, have receive the best paper award of the &lt;a href="http://www.wacv14.org/"&gt;WACV'14 conference&lt;/a&gt; for their paper &lt;a href="/publications/nebehay14_wacv.pdf"&gt;Consensus-based Matching and Tracking of Keypoints for Object Tracking&lt;/a&gt;.&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2014-04-16:/news/2014-04-16-Nebehay-Best-Paper-Award/</id>
+    <title type="html">Best paper award for Georg Nebehay and Roman Pflugfelder at WACV'14</title>
+    <published>2014-04-15T22:00:00Z</published>
+    <updated>2014-04-15T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-04-16-Nebehay-Best-Paper-Award/">
+    <content type="html">&lt;p&gt;We are happy to announce that Georg Nebehay and Roman Pflugfelder, who work on EPiCS at AIT, have receive the best paper award of the &lt;a href="http://www.wacv14.org/"&gt;WACV'14 conference&lt;/a&gt; for their paper &lt;a href="/publications/nebehay14_wacv.pdf"&gt;Consensus-based Matching and Tracking of Keypoints for Object Tracking&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
 &lt;img src="/news/nebehay-voting.png" width="100%" /&gt;
@@ -21,11 +39,23 @@
 
 &lt;p&gt;Consensus-based Matching and Tracking of Keypoints (CMT) is an object tracking algorithm that is able to visually track a wide variety of object classes in a multitude of scenes without the need of adapting the algorithm to specific scenarios in any way. The novelty of our approach is a keypoint-based object representation, where each keypoint votes independently for the location of the object of interest. Experiments have shown that CMT is able to achieve excellent results on a dataset that is as large as 60 sequences. The Python implementation for this work is freely available under the BSD license &lt;a href="https://github.com/gnebehay/CMT"&gt;here&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;We congratulate Georg and Roman on this great success and recognition of their work!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id><title type="html">EPiCS in Norvegian Media</title>
-<published>2014-03-28T23:00:00Z</published><updated>2014-03-28T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2014-03-29-EPiCS-Article-Aftenposten/">
-<content type="html">&lt;p&gt;The largest newspaper in Norway, Aftenposten, published on 29 March, 2014 on their web page a popular science article prepared by the EPiCS partner University of Oslo, featuring their work in active music systems in the project. This application is used as an example of novel work in the field of artificial intelligence. The article (in Norwegian) can be found &lt;a href="http://www.aftenposten.no/viten/Liv-i-kunstig-intelligens-7513684.html"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id><title type="html">EPiCS Video Student Contest Awards</title>
-<published>2013-10-16T22:00:00Z</published><updated>2013-10-16T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
-<content type="html">&lt;p&gt;We are happy to announce the winners of the EPiCS Video Student contest:&lt;/p&gt;
+&lt;p&gt;We congratulate Georg and Roman on this great success and recognition of their work!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id>
+    <title type="html">EPiCS in Norvegian Media</title>
+    <published>2014-03-28T23:00:00Z</published>
+    <updated>2014-03-28T23:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-03-29-EPiCS-Article-Aftenposten/">
+    <content type="html">&lt;p&gt;The largest newspaper in Norway, Aftenposten, published on 29 March, 2014 on their web page a popular science article prepared by the EPiCS partner University of Oslo, featuring their work in active music systems in the project. This application is used as an example of novel work in the field of artificial intelligence. The article (in Norwegian) can be found &lt;a href="http://www.aftenposten.no/viten/Liv-i-kunstig-intelligens-7513684.html"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id>
+    <title type="html">EPiCS Video Student Contest Awards</title>
+    <published>2013-10-16T22:00:00Z</published>
+    <updated>2013-10-16T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
+    <content type="html">&lt;p&gt;We are happy to announce the winners of the EPiCS Video Student contest:&lt;/p&gt;
 
 &lt;p&gt;The following two videos have been awarded a price:&lt;/p&gt;
 
@@ -35,27 +65,57 @@
 &lt;/ul&gt;
 
 
-&lt;p&gt;We congratulate the authors of these excellent and entertaining videos for their prizes. Both videos can be watched on the &lt;a href="http://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id><title type="html">Introduction to the Ella Middleware</title>
-<published>2013-09-24T22:00:00Z</published><updated>2013-09-24T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-09-25-Introduction-to-Ella-Middleware/">
-<content type="html">&lt;p&gt;We have just published an introductory article for the Ella middleware on the Codeproject developer portal. The article covers the basics of publish/subscribe and how to write publishers and subscribers using Ella.&lt;/p&gt;
+&lt;p&gt;We congratulate the authors of these excellent and entertaining videos for their prizes. Both videos can be watched on the &lt;a href="http://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id>
+    <title type="html">Introduction to the Ella Middleware</title>
+    <published>2013-09-24T22:00:00Z</published>
+    <updated>2013-09-24T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-09-25-Introduction-to-Ella-Middleware/">
+    <content type="html">&lt;p&gt;We have just published an introductory article for the Ella middleware on the Codeproject developer portal. The article covers the basics of publish/subscribe and how to write publishers and subscribers using Ella.&lt;/p&gt;
 
-&lt;p&gt;The article can be found at &lt;a href="http://www.codeproject.com/Articles/655774/Ella-publish-subscribe-middleware"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-09-01:/news/2013-09-01-FPGA-Heater-Cores-released/</id><title type="html">FPGA Heater Cores released</title>
-<published>2013-08-31T22:00:00Z</published><updated>2013-08-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-09-01-FPGA-Heater-Cores-released/">
-<content type="html">&lt;p&gt;In the publication "M. Happe, H. Hangmann, A. Agne, and C. Plessl. &lt;strong&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators.&lt;/strong&gt; In Proc. Int. Conf. on ReConFigurable Computing and FPGAs (ReConFig), pages 1–8. IEEE Computer Society, Dec. 2012.", which won the best paper award at the ReConFig'2012 conference, University of Paderborn has presented a study on the systematic design and evaluation of circuits that are optimised for generating a maximum amount of heat on FPGAs. Such heater cores can be used for automatically generating and calibrating thermal models of FPGA devices. Also the heater cores can be used to expose distinct areas of the devices to high temperatures with the objective to induce soft-errors, due to an increase in switching time.&lt;/p&gt;
+&lt;p&gt;The article can be found at &lt;a href="http://www.codeproject.com/Articles/655774/Ella-publish-subscribe-middleware"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-09-01:/news/2013-09-01-FPGA-Heater-Cores-released/</id>
+    <title type="html">FPGA Heater Cores released</title>
+    <published>2013-08-31T22:00:00Z</published>
+    <updated>2013-08-31T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-09-01-FPGA-Heater-Cores-released/">
+    <content type="html">&lt;p&gt;In the publication "M. Happe, H. Hangmann, A. Agne, and C. Plessl. &lt;strong&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators.&lt;/strong&gt; In Proc. Int. Conf. on ReConFigurable Computing and FPGAs (ReConFig), pages 1–8. IEEE Computer Society, Dec. 2012.", which won the best paper award at the ReConFig'2012 conference, University of Paderborn has presented a study on the systematic design and evaluation of circuits that are optimised for generating a maximum amount of heat on FPGAs. Such heater cores can be used for automatically generating and calibrating thermal models of FPGA devices. Also the heater cores can be used to expose distinct areas of the devices to high temperatures with the objective to induce soft-errors, due to an increase in switching time.&lt;/p&gt;
 
 &lt;p&gt;To make the heater cores available for other researchers for experimentation, we have released them as pcore modules, that can be integrated as components in Xilinx FPGA designs. The amount of heat that is generated can be adjusted in 32 levels.&lt;/p&gt;
 
-&lt;p&gt;More information and the MIT-licensed open source code of the FPGA heater cores can be found at &lt;a href="http://www.epics-project.eu/fpga-heater"&gt;http://www.epics-project.eu/fpga-heater&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-20:/news/2013-08-01-Video-Challenge/</id><title type="html">Deadline for EPiCS Video Student Contest extended</title>
-<published>2013-08-19T22:00:00Z</published><updated>2013-08-19T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-01-Video-Challenge/">
-<content type="html">&lt;p&gt;We have extended the deadline for submissions to the &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt; to August 31.&lt;/p&gt;
+&lt;p&gt;More information and the MIT-licensed open source code of the FPGA heater cores can be found at &lt;a href="http://www.epics-project.eu/fpga-heater"&gt;http://www.epics-project.eu/fpga-heater&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-08-20:/news/2013-08-01-Video-Challenge/</id>
+    <title type="html">Deadline for EPiCS Video Student Contest extended</title>
+    <published>2013-08-19T22:00:00Z</published>
+    <updated>2013-08-19T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-01-Video-Challenge/">
+    <content type="html">&lt;p&gt;We have extended the deadline for submissions to the &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt; to August 31.&lt;/p&gt;
 
 &lt;p&gt;In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
 
-&lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-12:/news/2013-08-12-EPiCS-Video-Channel/</id><title type="html">EPiCS Video Channel</title>
-<published>2013-08-11T22:00:00Z</published><updated>2013-08-11T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-12-EPiCS-Video-Channel/">
-<content type="html">&lt;p&gt;We are happy to announce that the EPiCS consortium has setup an &lt;a href="https://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt; at Vimeo, where we share videos for demonstrating and disseminating our research results to a broad audience. The first couple of videos have been already published and several new videos are currently in production. Stay tuned!&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-09:/news/2013-08-09-Peter-Lewis-Exchange/</id><title type="html">Research Exchange of Peter Lewis with Politecnico di Milano</title>
-<published>2013-08-08T22:00:00Z</published><updated>2013-08-08T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-09-Peter-Lewis-Exchange/">
-<content type="html">&lt;p&gt;Dr. Peter Lewis, who is based at the University of Birmingham and works
+&lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-08-12:/news/2013-08-12-EPiCS-Video-Channel/</id>
+    <title type="html">EPiCS Video Channel</title>
+    <published>2013-08-11T22:00:00Z</published>
+    <updated>2013-08-11T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-12-EPiCS-Video-Channel/">
+    <content type="html">&lt;p&gt;We are happy to announce that the EPiCS consortium has setup an &lt;a href="https://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt; at Vimeo, where we share videos for demonstrating and disseminating our research results to a broad audience. The first couple of videos have been already published and several new videos are currently in production. Stay tuned!&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-08-09:/news/2013-08-09-Peter-Lewis-Exchange/</id>
+    <title type="html">Research Exchange of Peter Lewis with Politecnico di Milano</title>
+    <published>2013-08-08T22:00:00Z</published>
+    <updated>2013-08-08T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-09-Peter-Lewis-Exchange/">
+    <content type="html">&lt;p&gt;Dr. Peter Lewis, who is based at the University of Birmingham and works
 on the EPiCS project, visited Professor Marco Santambrogio at the NECST
 Lab at the Politecnico di Milano on a Research Exchange visit. The
 visit took place between the 19th and 21st March 2013, and enabled these
@@ -88,15 +148,27 @@ control theory.&lt;/p&gt;
 &lt;img src="/news/fig/peter-lewis-talk.jpg" width="72%" /&gt;
 &lt;figcaption style="text-align: left;"&gt;Peter Lewis is giving an invited talk describing the developed conceptual
 framework for computational self-awareness and how the capabilities it describes it could be implemented.&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-07:/news/2013-08-07-Ella-Released/</id><title type="html">Ella distributed publish/subscribe middleware released</title>
-<published>2013-08-06T22:00:00Z</published><updated>2013-08-06T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-07-Ella-Released/">
-<content type="html">&lt;p&gt;Ella, the Middleware developed in the EPiCS Project, has just been released as open source.&lt;/p&gt;
+&lt;/figure&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-08-07:/news/2013-08-07-Ella-Released/</id>
+    <title type="html">Ella distributed publish/subscribe middleware released</title>
+    <published>2013-08-06T22:00:00Z</published>
+    <updated>2013-08-06T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-07-Ella-Released/">
+    <content type="html">&lt;p&gt;Ella, the Middleware developed in the EPiCS Project, has just been released as open source.&lt;/p&gt;
 
 &lt;p&gt;Ella is a fully distributed publish/subscribe middleware enabling rapid development of data-driven distributed applications. Ella features a simple and fluent facade making it easy to use. A special focus in the design of the middleware has been put easy integration of Ella into existing code. It does not require any inheritance but instead uses code annotations to make classes suitable for use in the system.&lt;/p&gt;
 
-&lt;p&gt;Ella can be downloaded from &lt;a href="http://ella.codeplex.com"&gt;http://ella.codeplex.com&lt;/a&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-06:/news/2013-08-06-CAMSIM-Released/</id><title type="html">CamSim simulator for distributed camera networks released</title>
-<published>2013-08-05T22:00:00Z</published><updated>2013-08-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-06-CAMSIM-Released/">
-<content type="html">&lt;p&gt;&lt;a href="http://epics.github.io/CamSim"&gt;CamSim&lt;/a&gt;, the simulator for distributed smart camera networks, has just been released in its first version. In the last few months, the pre-release of CamSim went through various major refactoring processes.&lt;/p&gt;
+&lt;p&gt;Ella can be downloaded from &lt;a href="http://ella.codeplex.com"&gt;http://ella.codeplex.com&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-08-06:/news/2013-08-06-CAMSIM-Released/</id>
+    <title type="html">CamSim simulator for distributed camera networks released</title>
+    <published>2013-08-05T22:00:00Z</published>
+    <updated>2013-08-05T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-06-CAMSIM-Released/">
+    <content type="html">&lt;p&gt;&lt;a href="http://epics.github.io/CamSim"&gt;CamSim&lt;/a&gt;, the simulator for distributed smart camera networks, has just been released in its first version. In the last few months, the pre-release of CamSim went through various major refactoring processes.&lt;/p&gt;
 
 &lt;p class="center"&gt;
   &lt;iframe src="http://player.vimeo.com/video/70176909" width="500" height="292" frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen&gt;&lt;/iframe&gt;
@@ -116,13 +188,25 @@ framework for computational self-awareness and how the capabilities it describes
 
 &lt;p&gt;To provide prospective developers with a low entrance level, abstract classes are available for extension. Furthermore, introductory tutorials are available online at the GitHub Repository.&lt;/p&gt;
 
-&lt;p&gt;The first release can be downloaded from &lt;a href="https://github.com/EPiCS/CamSim/releases/tag/v1.0"&gt;https://github.com/EPiCS/CamSim/releases/tag/v1.0&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-20-Video-Challenge-Extended/</id><title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
-<published>2013-07-31T22:00:00Z</published><updated>2013-07-31T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-08-20-Video-Challenge-Extended/">
-<content type="html">&lt;p&gt;We are pleased to announce that &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt;. In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
+&lt;p&gt;The first release can be downloaded from &lt;a href="https://github.com/EPiCS/CamSim/releases/tag/v1.0"&gt;https://github.com/EPiCS/CamSim/releases/tag/v1.0&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-20-Video-Challenge-Extended/</id>
+    <title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
+    <published>2013-07-31T22:00:00Z</published>
+    <updated>2013-07-31T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-20-Video-Challenge-Extended/">
+    <content type="html">&lt;p&gt;We are pleased to announce that &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt;. In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
 
-&lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-07-15:/news/2013-07-15-Tatiana-Djaba-Nya/</id><title type="html">Tatiana Djaba Nya joins the EPiCS team at EADS</title>
-<published>2013-07-14T22:00:00Z</published><updated>2013-07-14T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-07-15-Tatiana-Djaba-Nya/">
-<content type="html">&lt;p&gt;&lt;img src="/news/tatiana.jpg" width="200" style="float:right;" /&gt;&lt;/p&gt;
+&lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-07-15:/news/2013-07-15-Tatiana-Djaba-Nya/</id>
+    <title type="html">Tatiana Djaba Nya joins the EPiCS team at EADS</title>
+    <published>2013-07-14T22:00:00Z</published>
+    <updated>2013-07-14T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-07-15-Tatiana-Djaba-Nya/">
+    <content type="html">&lt;p&gt;&lt;img src="/news/tatiana.jpg" width="200" style="float:right;" /&gt;&lt;/p&gt;
 
 &lt;p&gt;I am a postgraduate at EADS Innovation Work in Ottobrunn (Germany) since June 2013.
 "Software-centric fault tolerance approaches based on statistical signatures for technical aeronautic systems"
@@ -131,9 +215,15 @@ and Professor Christian Siemers at the technical university of Clausthal.&lt;/p&
 
 &lt;p&gt;Until June 2013, I was studying information technology at the technical university of Clausthal. I completed my diploma
 thesis at EADS IW in Ottobrunn on the topic "simulation system for proprioceptive computing nodes". I am a holder of
-an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2013-06-06:/news/2013-06-06-Caine-Award-Nomination/</id><title type="html">Horatio Caine shortlisted for CREST BSc Final Year Project Award</title>
-<published>2013-06-05T22:00:00Z</published><updated>2013-06-05T22:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2013-06-06-Caine-Award-Nomination/">
-<content type="html">&lt;p&gt;We are pleased to announce that Horatio Caine has been shortlisted for the CREST annual prize for the &lt;a href="http://www0.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/BSC/index.html"&gt;BSc Final Year Computer Science Project of the Year&lt;/a&gt;.&lt;/p&gt;
+an engineer’s diploma.&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2013-06-06:/news/2013-06-06-Caine-Award-Nomination/</id>
+    <title type="html">Horatio Caine shortlisted for CREST BSc Final Year Project Award</title>
+    <published>2013-06-05T22:00:00Z</published>
+    <updated>2013-06-05T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2013-06-06-Caine-Award-Nomination/">
+    <content type="html">&lt;p&gt;We are pleased to announce that Horatio Caine has been shortlisted for the CREST annual prize for the &lt;a href="http://www0.cs.ucl.ac.uk/staff/Yuanyuan.Zhang/BSC/index.html"&gt;BSc Final Year Computer Science Project of the Year&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Horatio has just completed his BSc in Computer Science at the University of Birmingham, UK, where he collaborated with members of the EPiCS project on his Final Year Project entitled 'Prediction and Classification for Optimisation of Object Tracking in Market-Based Networks of Distributed Smart Cameras'.&lt;/p&gt;
 
@@ -144,6 +234,14 @@ an engineer’s diploma.&lt;/p&gt;</content></entry><entry><id>tag:www.epics-pro
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
 &lt;img src="/news/fig/cain-bsc-award-illustration.png" width="72%" /&gt;
 &lt;figcaption style="text-align: left;"&gt;Object trajectories are analysed to perform classification, which allows cameras to communicate more efficiently. Here, Camera B can distinguish between objects heading in different directions to ensure only Camera A uses computational resources searching for the blue object. The addition of classification increases efficiency of multi-camera tracking relative to the state of the art.&lt;/figcaption&gt;
-&lt;/figure&gt;&lt;/p&gt;</content></entry><entry><id>tag:www.epics-project.eu,2012-12-03:/news/2012-12-03-Reconfig-Award/</id><title type="html">EPiCS team at UPB wins best paper award a the Int. Conference on Reconfigurable Computing and FPGAs</title>
-<published>2012-12-02T23:00:00Z</published><updated>2012-12-02T23:00:00Z</updated><link rel="alternate" href="http://www.epics-project.eu/news/2012-12-03-Reconfig-Award/">
-<content type="html">&lt;p&gt;We are happy to announce that Markus Happe, Hendrik Hangmann, Andreas Agne, and Christian Plessl from the EPiCS team at University of Paderborn have been awarded with the best paper award at the International Conference on Reconfigurable Computing and FPGAs for their paper &lt;a href="/publications/2012_happe_reconfig.pdf"&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators&lt;/a&gt;.&lt;/p&gt;</content></entry></feed>
+&lt;/figure&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
+    <id>tag:www.epics-project.eu,2012-12-03:/news/2012-12-03-Reconfig-Award/</id>
+    <title type="html">EPiCS team at UPB wins best paper award a the Int. Conference on Reconfigurable Computing and FPGAs</title>
+    <published>2012-12-02T23:00:00Z</published>
+    <updated>2012-12-02T23:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2012-12-03-Reconfig-Award/">
+    <content type="html">&lt;p&gt;We are happy to announce that Markus Happe, Hendrik Hangmann, Andreas Agne, and Christian Plessl from the EPiCS team at University of Paderborn have been awarded with the best paper award at the International Conference on Reconfigurable Computing and FPGAs for their paper &lt;a href="/publications/2012_happe_reconfig.pdf"&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
+</feed>
