@@ -2,13 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://www.epics-project.eu/</id>
   <title>EPiCS News</title>
-  <updated>2014-06-11T22:00:00Z</updated>
+  <updated>2014-06-19T22:00:00Z</updated>
   <link rel="alternate" href="http://www.epics-project.eu/">
   <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
   <author>
     <name>The EPiCS Consortium</name>
     <uri>http://www.epics-project.eu</uri>
   </author>
+  <entry>
+    <id>tag:www.epics-project.eu,2014-06-20:/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/</id>
+    <title type="html">Article on Hypermusic in Norwegian Newspapger 'Dagens næringsliv'</title>
+    <published>2014-06-19T22:00:00Z</published>
+    <updated>2014-06-19T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/">
+    <content type="html">&lt;p&gt;Jim Tørresen and Kristian Nymoen of the EPiCS team at University of Olso have contributed an article to the Norwegian newspaper &lt;strong&gt;Dagens næringsliv&lt;/strong&gt; (comparable to the Financial Times) on their work on Hypermusic. Here is a summary of the article in English:&lt;/p&gt;
+
+&lt;blockquote cite="http://www.dn.no/meninger/debatt/2014/06/19/Teknologi/kunstig-klok"&gt;
+&lt;p&gt;
+    People with ear buds plugged into the smart phone is a common sight in today's cityscape. The same phone has various sensors built in to register movement: both how fast we are moving, how the phone is oriented and where we are. These can be combined with music listening. By enabling computerized generation of music on the fly, the sensors in the phone may control the pace and type of music. We are talking about moving in a musical landscape through user-controlled active music. Either by direct user selection, just like clicking around in a web browser or more indirectly by using sensor readings from the smart phone. When given a flexible framework for music, music producers may create flexible music that allows the listener to make choices while listening. 
+&lt;/p&gt;
+&lt;p&gt;
+    It is artificial intelligence that enables this music revolution. The main idea of ​​artificial intelligence is to develop intelligent systems that can adapt to the users rather than forcing users to adapt to the technology. We do this in the form of self-learning methods, often inspired by biology. An example of a biological inspired method is found in ants, when searching for food. The ants find a food source, and leave pheromones on the way home so that other ants know where to go. When the food source runs out or a better one is found, the pheromones evaporate and the trail disappears. In the EU project Engineering Proprioception in Computing Systems (EPICS), we have seen that this method is useful in wide variety of application areas, such as active music and coordination between surveillance cameras. 
+&lt;/p&gt;
+&lt;/blockquote&gt;
+
+
+&lt;p&gt;A copy of the full article in Norwegian language can be downloaded &lt;a href="/news/fig/Hypermusic_DagensNaeringsliv.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+  </entry>
   <entry>
     <id>tag:www.epics-project.eu,2014-06-12:/news/2014-06-12-Jennifer-Simonjan-Award/</id>
     <title type="html">Best performing student award for Jennifer Simonjan</title>
@@ -43,7 +63,7 @@
   </entry>
   <entry>
     <id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id>
-    <title type="html">EPiCS in Norvegian Media</title>
+    <title type="html">EPiCS in Norwegian Media</title>
     <published>2014-03-28T23:00:00Z</published>
     <updated>2014-03-28T23:00:00Z</updated>
     <link rel="alternate" href="http://www.epics-project.eu/news/2014-03-29-EPiCS-Article-Aftenposten/">
@@ -235,13 +255,5 @@ an engineer’s diploma.&lt;/p&gt;</content>
 &lt;img src="/news/fig/cain-bsc-award-illustration.png" width="72%" /&gt;
 &lt;figcaption style="text-align: left;"&gt;Object trajectories are analysed to perform classification, which allows cameras to communicate more efficiently. Here, Camera B can distinguish between objects heading in different directions to ensure only Camera A uses computational resources searching for the blue object. The addition of classification increases efficiency of multi-camera tracking relative to the state of the art.&lt;/figcaption&gt;
 &lt;/figure&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.epics-project.eu,2012-12-03:/news/2012-12-03-Reconfig-Award/</id>
-    <title type="html">EPiCS team at UPB wins best paper award a the Int. Conference on Reconfigurable Computing and FPGAs</title>
-    <published>2012-12-02T23:00:00Z</published>
-    <updated>2012-12-02T23:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2012-12-03-Reconfig-Award/">
-    <content type="html">&lt;p&gt;We are happy to announce that Markus Happe, Hendrik Hangmann, Andreas Agne, and Christian Plessl from the EPiCS team at University of Paderborn have been awarded with the best paper award at the International Conference on Reconfigurable Computing and FPGAs for their paper &lt;a href="/publications/2012_happe_reconfig.pdf"&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
 </feed>
