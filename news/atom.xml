@@ -10,21 +10,21 @@
     <uri>http://www.epics-project.eu</uri>
   </author>
   <entry>
-    <id>tag:www.epics-project.eu,2014-08-29:/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/</id>
+    <id>tag:www.epics-project.eu,2014-08-29:/news/2014-08-29-EPiCS-Article-Forschung-inSight/</id>
     <title type="html">Feature article on EPiCS in University of Paderborn Research Magazine 'Forschung inSight'</title>
     <published>2014-08-28T22:00:00Z</published>
     <updated>2014-08-28T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/">
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-08-29-EPiCS-Article-Forschung-inSight/">
     <content type="html">&lt;p&gt;University of Paderborn's research magazine 'Forschung inSight' (research insight) aims at making current research results accessible to a broad audience. Recently, an article titled 'Die Psychologie der Rechner' (The psychology of computers) has appeared that describes the goals and results of the EPiCS research project. The article discusses, how the we have translated the psychological concept of self-awareness to the domain of computer science and engineering and what applications can be enabled by this effort.&lt;/p&gt;
 
-&lt;p&gt;A copy of the full article in German language can be downloaded &lt;a href="/news/fig/forschung-insight.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;A copy of the full article in German language can be downloaded &lt;a href="/news/forschung-insight.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2014-06-20:/news/2014-08-29-EPiCS-Article-Forschung-inSight/</id>
+    <id>tag:www.epics-project.eu,2014-06-20:/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/</id>
     <title type="html">Article on Hypermusic in Norwegian Newspapger 'Dagens næringsliv'</title>
     <published>2014-06-19T22:00:00Z</published>
     <updated>2014-06-19T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-08-29-EPiCS-Article-Forschung-inSight/">
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/">
     <content type="html">&lt;p&gt;Jim Tørresen and Kristian Nymoen of the EPiCS team at University of Olso have contributed an article to the Norwegian newspaper &lt;strong&gt;Dagens næringsliv&lt;/strong&gt; (comparable to the Financial Times) on their work on Hypermusic. Here is a summary of the article in English:&lt;/p&gt;
 
 &lt;blockquote cite="http://www.dn.no/meninger/debatt/2014/06/19/Teknologi/kunstig-klok"&gt;
