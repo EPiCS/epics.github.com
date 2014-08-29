@@ -10,6 +10,19 @@
     <uri>http://www.epics-project.eu</uri>
   </author>
   <entry>
+    <id>tag:www.epics-project.eu,2014-08-29:/news/2014-08-29-PheroMusic/</id>
+    <title type="html">PheroMusic iOS App released</title>
+    <published>2014-08-28T22:00:00Z</published>
+    <updated>2014-08-28T22:00:00Z</updated>
+    <link rel="alternate" href="http://www.epics-project.eu/news/2014-08-29-PheroMusic/">
+    <content type="html">&lt;p&gt;The EPiCS team at the University of Oslo has just released the iPhone app &lt;a href="http://itunes.apple.com/app/pheromusic/id910100415"&gt;PheroMusic&lt;/a&gt; on the iTunes app store. The pheromone algorithm developed as part of Work Package 2 and used in the smart camera application has been adapted for use in active music. The app exploits the temporal properties of a pheromone graph which builds up and evaporates over time to realise an artificial agent with musical memory. As such, the self-aware music system is able to remember transitions between musical sections as selected by the user, and thus follow the preferences of the user in future iterations of the musical piece.&lt;/p&gt;
+
+&lt;p&gt;&lt;figure style="text-align: center;"&gt;
+&lt;img src="/news/fig/PheroMusic.png" width="100%" /&gt;
+&lt;figcaption style="text-align: left;"&gt;Screenshot of the PheroMusic iOS app.&lt;/figcaption&gt;
+&lt;/figure&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry>
     <id>tag:www.epics-project.eu,2014-08-29:/news/2014-08-29-EPiCS-Article-Forschung-inSight/</id>
     <title type="html">Feature article on EPiCS in University of Paderborn Research Magazine 'Forschung inSight'</title>
     <published>2014-08-28T22:00:00Z</published>
@@ -25,11 +38,11 @@
     <published>2014-06-19T22:00:00Z</published>
     <updated>2014-06-19T22:00:00Z</updated>
     <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/">
-    <content type="html">&lt;p&gt;Jim Tørresen and Kristian Nymoen of the EPiCS team at University of Olso have contributed an article to the Norwegian newspaper &lt;strong&gt;Dagens næringsliv&lt;/strong&gt; (comparable to the Financial Times) on their work on Hypermusic. Here is a summary of the article in English:&lt;/p&gt;
+    <content type="html">&lt;p&gt;Jim Tørresen and Kristian Nymoen of the EPiCS team at University of Oslo have contributed an article to the Norwegian newspaper &lt;strong&gt;Dagens næringsliv&lt;/strong&gt; (comparable to the Financial Times) on their work on Hypermusic. Here is a summary of the article in English:&lt;/p&gt;
 
 &lt;blockquote cite="http://www.dn.no/meninger/debatt/2014/06/19/Teknologi/kunstig-klok"&gt;
 &lt;p&gt;
-    People with ear buds plugged into the smart phone is a common sight in today's cityscape. The same phone has various sensors built in to register movement: both how fast we are moving, how the phone is oriented and where we are. These can be combined with music listening. By enabling computerized generation of music on the fly, the sensors in the phone may control the pace and type of music. We are talking about moving in a musical landscape through user-controlled active music. Either by direct user selection, just like clicking around in a web browser or more indirectly by using sensor readings from the smart phone. When given a flexible framework for music, music producers may create flexible music that allows the listener to make choices while listening. 
+    People with ear buds plugged into the smart phone is a common sight in today's cityscape. The same phone has various sensors built in to register movement: both how fast we are moving, how the phone is oriented and where we are. These can be combined with music listening. By enabling computerised generation of music on the fly, the sensors in the phone may control the pace and type of music. We are talking about moving in a musical landscape through user-controlled active music. Either by direct user selection, just like clicking around in a web browser or more indirectly by using sensor readings from the smart phone. When given a flexible framework for music, music producers may create flexible music that allows the listener to make choices while listening. 
 &lt;/p&gt;
 &lt;p&gt;
     It is artificial intelligence that enables this music revolution. The main idea of ​​artificial intelligence is to develop intelligent systems that can adapt to the users rather than forcing users to adapt to the technology. We do this in the form of self-learning methods, often inspired by biology. An example of a biological inspired method is found in ants, when searching for food. The ants find a food source, and leave pheromones on the way home so that other ants know where to go. When the food source runs out or a better one is found, the pheromones evaporate and the trail disappears. In the EU project Engineering Proprioception in Computing Systems (EPICS), we have seen that this method is useful in wide variety of application areas, such as active music and coordination between surveillance cameras. 
@@ -229,22 +242,5 @@ framework for computational self-awareness and how the capabilities it describes
     <content type="html">&lt;p&gt;We are pleased to announce that &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt;. In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
 
 &lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
-  </entry>
-  <entry>
-    <id>tag:www.epics-project.eu,2013-07-15:/news/2013-07-15-Tatiana-Djaba-Nya/</id>
-    <title type="html">Tatiana Djaba Nya joins the EPiCS team at EADS</title>
-    <published>2013-07-14T22:00:00Z</published>
-    <updated>2013-07-14T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-07-15-Tatiana-Djaba-Nya/">
-    <content type="html">&lt;p&gt;&lt;img src="/news/tatiana.jpg" width="200" style="float:right;" /&gt;&lt;/p&gt;
-
-&lt;p&gt;I am a postgraduate at EADS Innovation Work in Ottobrunn (Germany) since June 2013.
-"Software-centric fault tolerance approaches based on statistical signatures for technical aeronautic systems"
-is the subject of my doctoral thesis and it is under the supervision of Dr. Stephan Stilkerich at EADS IW in Ottobrunn
-and Professor Christian Siemers at the technical university of Clausthal.&lt;/p&gt;
-
-&lt;p&gt;Until June 2013, I was studying information technology at the technical university of Clausthal. I completed my diploma
-thesis at EADS IW in Ottobrunn on the topic "simulation system for proprioceptive computing nodes". I am a holder of
-an engineer’s diploma.&lt;/p&gt;</content>
   </entry>
 </feed>
