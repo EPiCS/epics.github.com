@@ -783,6 +783,13 @@
     <loc>http://www.epics-project.eu/publications/2013_happe_seus.pdf</loc>
   </url>
   <url>
+    <loc>http://www.epics-project.eu/publications/2013_keller_srcs.bib</loc>
+    <lastmod>2014-08-29</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2013_keller_srcs.pdf</loc>
+  </url>
+  <url>
     <loc>http://www.epics-project.eu/publications/2013_kristan_iccvw.bib</loc>
     <lastmod>2014-08-29</lastmod>
   </url>
@@ -802,10 +809,6 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2013_kurek_srcs.pdf</loc>
-  </url>
-  <url>
-    <loc>http://www.epics-project.eu/publications/2013_lewis_adaptive.bib</loc>
-    <lastmod>2014-08-29</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2013_lewis_saso.bib</loc>
@@ -989,6 +992,13 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2014_kurek_fccm.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2014_lewis_adaptive.bib</loc>
+    <lastmod>2014-08-29</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2014_lewis_adaptive.pdf</loc>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2014_lewis_taas.bib</loc>
