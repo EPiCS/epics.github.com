@@ -757,6 +757,9 @@
     <lastmod>2014-09-08</lastmod>
   </url>
   <url>
+    <loc>http://www.epics-project.eu/publications/2013_esterle_sasow.pdf</loc>
+  </url>
+  <url>
     <loc>http://www.epics-project.eu/publications/2013_esterle_tosn.bib</loc>
     <lastmod>2014-09-08</lastmod>
   </url>
@@ -972,12 +975,21 @@
     <lastmod>2014-09-08</lastmod>
   </url>
   <url>
+    <loc>http://www.epics-project.eu/publications/2014_faniyi_wicsa.pdf</loc>
+  </url>
+  <url>
     <loc>http://www.epics-project.eu/publications/2014_fu_cec.bib</loc>
     <lastmod>2014-09-08</lastmod>
   </url>
   <url>
+    <loc>http://www.epics-project.eu/publications/2014_fu_cec.pdf</loc>
+  </url>
+  <url>
     <loc>http://www.epics-project.eu/publications/2014_fu_ppsn.bib</loc>
     <lastmod>2014-09-08</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2014_fu_ppsn.pdf</loc>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2014_gemeiner_eccv.bib</loc>
