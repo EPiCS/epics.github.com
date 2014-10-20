@@ -13,10 +13,6 @@
     <lastmod>2013-08-06</lastmod>
   </url>
   <url>
-    <loc>http://www.epics-project.eu/bibtex-test/</loc>
-    <lastmod>2012-03-14</lastmod>
-  </url>
-  <url>
     <loc>http://www.epics-project.eu/consortium/</loc>
     <lastmod>2013-03-15</lastmod>
   </url>
@@ -294,7 +290,7 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/</loc>
-    <lastmod>2014-09-28</lastmod>
+    <lastmod>2014-10-20</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2010_keller_futurenet.bib</loc>
@@ -376,10 +372,6 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_happe_fpl.pdf</loc>
-  </url>
-  <url>
-    <loc>http://www.epics-project.eu/publications/2011_happe_jrtip.bib</loc>
-    <lastmod>2014-10-20</lastmod>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2011_happe_reconfig.bib</loc>
@@ -799,6 +791,13 @@
     <loc>http://www.epics-project.eu/publications/2013_guo_heart.pdf</loc>
   </url>
   <url>
+    <loc>http://www.epics-project.eu/publications/2013_happe_jrtip.bib</loc>
+    <lastmod>2014-10-20</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2013_happe_jrtip.pdf</loc>
+  </url>
+  <url>
     <loc>http://www.epics-project.eu/publications/2013_happe_seus.bib</loc>
     <lastmod>2014-10-20</lastmod>
   </url>
@@ -1029,6 +1028,13 @@
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2014_guo_jsps.pdf</loc>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2014_happe_reconfig.bib</loc>
+    <lastmod>2014-10-20</lastmod>
+  </url>
+  <url>
+    <loc>http://www.epics-project.eu/publications/2014_happe_reconfig.pdf</loc>
   </url>
   <url>
     <loc>http://www.epics-project.eu/publications/2014_ho_fpl.bib</loc>
