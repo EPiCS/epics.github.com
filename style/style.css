@@ -16,11 +16,22 @@ body{font-family: Verdana, Arial, Helvetica, sans-serif; font-size:11px; color:#
 
 #content_container_klein{float:left; width:452px;}
 #content_container_gross{float:left; width:731px;}
+
 .boxes{width:260px; float:right;}
 #box{background-color:#F4F4F4;}
 #box_content{padding:10px; font-size:10px; line-height:150%;}
 #box_content h2{color:#999999; font-size:12px; padding:0px; margin:0px; margin-bottom:15px;}
 #box_content h3{font-size:10px; padding:0px; margin:0px;}
+
+@media screen and (max-device-width: 480px) {
+  #box { display: none;}
+  #content_container {width: 100%;}
+  #right {float:left; width: 100%; margin: 0; padding:0;}
+  #left { display: none;}
+  #headline {display: none;}
+}
+
+
 
 #footer{margin-left:290px; margin-top:10px; margin-bottom:10px; width:711px; border-top:2px dotted #33B1E1; font-size:10px; padding-top:12px;}
 

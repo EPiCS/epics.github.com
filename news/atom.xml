@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://www.epics-project.eu/</id>
+  <id>http://epics.uni-paderborn.de/</id>
   <title>EPiCS News</title>
   <updated>2014-08-28T22:00:00Z</updated>
-  <link rel="alternate" href="http://www.epics-project.eu/">
-  <link rel="self" href="http://www.epics-project.eu/news/atom.xml">
+  <link rel="alternate" href="http://epics.uni-paderborn.de/">
+  <link rel="self" href="http://epics.uni-paderborn.de/news/atom.xml">
   <author>
     <name>The EPiCS Consortium</name>
-    <uri>http://www.epics-project.eu</uri>
+    <uri>http://epics.uni-paderborn.de</uri>
   </author>
   <entry>
-    <id>tag:www.epics-project.eu,2014-08-29:/news/2014-08-29-PheroMusic/</id>
+    <id>tag:epics.uni-paderborn.de,2014-08-29:/news/2014-08-29-PheroMusic/</id>
     <title type="html">PheroMusic iOS App released</title>
     <published>2014-08-28T22:00:00Z</published>
     <updated>2014-08-28T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-08-29-PheroMusic/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2014-08-29-PheroMusic/">
     <content type="html">&lt;p&gt;The EPiCS team at the University of Oslo has just released the iPhone app &lt;a href="http://itunes.apple.com/app/pheromusic/id910100415"&gt;PheroMusic&lt;/a&gt; on the iTunes app store. The pheromone algorithm developed as part of Work Package 2 and used in the smart camera application has been adapted for use in active music. The app exploits the temporal properties of a pheromone graph which builds up and evaporates over time to realise an artificial agent with musical memory. As such, the self-aware music system is able to remember transitions between musical sections as selected by the user, and thus follow the preferences of the user in future iterations of the musical piece.&lt;/p&gt;
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
@@ -23,21 +23,21 @@
 &lt;/figure&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2014-08-29:/news/2014-08-29-EPiCS-Article-Forschung-inSight/</id>
+    <id>tag:epics.uni-paderborn.de,2014-08-29:/news/2014-08-29-EPiCS-Article-Forschung-inSight/</id>
     <title type="html">Feature article on EPiCS in University of Paderborn Research Magazine 'Forschung inSight'</title>
     <published>2014-08-28T22:00:00Z</published>
     <updated>2014-08-28T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-08-29-EPiCS-Article-Forschung-inSight/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2014-08-29-EPiCS-Article-Forschung-inSight/">
     <content type="html">&lt;p&gt;University of Paderborn's research magazine 'Forschung inSight' (research insight) aims at making current research results accessible to a broad audience. Recently, an article titled 'Die Psychologie der Rechner' (The psychology of computers) has appeared that describes the goals and results of the EPiCS research project. The article discusses, how the we have translated the psychological concept of self-awareness to the domain of computer science and engineering and what applications can be enabled by this effort.&lt;/p&gt;
 
 &lt;p&gt;A copy of the full article in German language can be downloaded &lt;a href="/news/forschung-insight.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2014-06-20:/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/</id>
+    <id>tag:epics.uni-paderborn.de,2014-06-20:/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/</id>
     <title type="html">Article on Hypermusic in Norwegian Newspapger 'Dagens næringsliv'</title>
     <published>2014-06-19T22:00:00Z</published>
     <updated>2014-06-19T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2014-06-20-EPiCS-Article-Dagens-Naeringsliv/">
     <content type="html">&lt;p&gt;Jim Tørresen and Kristian Nymoen of the EPiCS team at University of Oslo have contributed an article to the Norwegian newspaper &lt;strong&gt;Dagens næringsliv&lt;/strong&gt; (comparable to the Financial Times) on their work on Hypermusic. Here is a summary of the article in English:&lt;/p&gt;
 
 &lt;blockquote cite="http://www.dn.no/meninger/debatt/2014/06/19/Teknologi/kunstig-klok"&gt;
@@ -53,11 +53,11 @@
 &lt;p&gt;A copy of the full article in Norwegian language can be downloaded &lt;a href="/news/fig/Hypermusic_DagensNaeringsliv.pdf"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2014-06-12:/news/2014-06-12-Jennifer-Simonjan-Award/</id>
+    <id>tag:epics.uni-paderborn.de,2014-06-12:/news/2014-06-12-Jennifer-Simonjan-Award/</id>
     <title type="html">Best performing student award for Jennifer Simonjan</title>
     <published>2014-06-11T22:00:00Z</published>
     <updated>2014-06-11T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-06-12-Jennifer-Simonjan-Award/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2014-06-12-Jennifer-Simonjan-Award/">
     <content type="html">&lt;p&gt;We are happy to announce that Jennifer Simonjan – a student researcher of the EPiCS team at Alpen-Adria-Universität (AAU) Klagenfurt – received the &lt;strong&gt;Best Performing Student Award&lt;/strong&gt; of the Faculty of Technical Sciences at AAU. This award is handed over to the faculty’s top performing students of the year. Jennifer also completed her master study with distinction three weeks ago.&lt;/p&gt;
 
 &lt;p&gt;Let’s congratulate Jennifer for this great success!&lt;/p&gt;
@@ -68,11 +68,11 @@
 &lt;/figure&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2014-04-16:/news/2014-04-16-Nebehay-Best-Paper-Award/</id>
+    <id>tag:epics.uni-paderborn.de,2014-04-16:/news/2014-04-16-Nebehay-Best-Paper-Award/</id>
     <title type="html">Best paper award for Georg Nebehay and Roman Pflugfelder at WACV'14</title>
     <published>2014-04-15T22:00:00Z</published>
     <updated>2014-04-15T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-04-16-Nebehay-Best-Paper-Award/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2014-04-16-Nebehay-Best-Paper-Award/">
     <content type="html">&lt;p&gt;We are happy to announce that Georg Nebehay and Roman Pflugfelder, who work on EPiCS at AIT, have receive the best paper award of the &lt;a href="http://www.wacv14.org/"&gt;WACV'14 conference&lt;/a&gt; for their paper &lt;a href="/publications/nebehay14_wacv.pdf"&gt;Consensus-based Matching and Tracking of Keypoints for Object Tracking&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;figure style="text-align: center;"&gt;
@@ -85,19 +85,19 @@
 &lt;p&gt;We congratulate Georg and Roman on this great success and recognition of their work!&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id>
+    <id>tag:epics.uni-paderborn.de,2014-03-29:/news/2014-03-29-EPiCS-Article-Aftenposten/</id>
     <title type="html">EPiCS in Norwegian Media</title>
     <published>2014-03-28T23:00:00Z</published>
     <updated>2014-03-28T23:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2014-03-29-EPiCS-Article-Aftenposten/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2014-03-29-EPiCS-Article-Aftenposten/">
     <content type="html">&lt;p&gt;The largest newspaper in Norway, Aftenposten, published on 29 March, 2014 on their web page a popular science article prepared by the EPiCS partner University of Oslo, featuring their work in active music systems in the project. This application is used as an example of novel work in the field of artificial intelligence. The article (in Norwegian) can be found &lt;a href="http://www.aftenposten.no/viten/Liv-i-kunstig-intelligens-7513684.html"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id>
+    <id>tag:epics.uni-paderborn.de,2013-10-17:/news/2013-10-17-EPiCS-Video-Challenge-Awards/</id>
     <title type="html">EPiCS Video Student Contest Awards</title>
     <published>2013-10-16T22:00:00Z</published>
     <updated>2013-10-16T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-10-17-EPiCS-Video-Challenge-Awards/">
     <content type="html">&lt;p&gt;We are happy to announce the winners of the EPiCS Video Student contest:&lt;/p&gt;
 
 &lt;p&gt;The following two videos have been awarded a price:&lt;/p&gt;
@@ -111,33 +111,33 @@
 &lt;p&gt;We congratulate the authors of these excellent and entertaining videos for their prizes. Both videos can be watched on the &lt;a href="http://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id>
+    <id>tag:epics.uni-paderborn.de,2013-09-25:/news/2013-09-25-Introduction-to-Ella-Middleware/</id>
     <title type="html">Introduction to the Ella Middleware</title>
     <published>2013-09-24T22:00:00Z</published>
     <updated>2013-09-24T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-09-25-Introduction-to-Ella-Middleware/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-09-25-Introduction-to-Ella-Middleware/">
     <content type="html">&lt;p&gt;We have just published an introductory article for the Ella middleware on the Codeproject developer portal. The article covers the basics of publish/subscribe and how to write publishers and subscribers using Ella.&lt;/p&gt;
 
 &lt;p&gt;The article can be found at &lt;a href="http://www.codeproject.com/Articles/655774/Ella-publish-subscribe-middleware"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-09-01:/news/2013-09-01-FPGA-Heater-Cores-released/</id>
+    <id>tag:epics.uni-paderborn.de,2013-09-01:/news/2013-09-01-FPGA-Heater-Cores-released/</id>
     <title type="html">FPGA Heater Cores released</title>
     <published>2013-08-31T22:00:00Z</published>
     <updated>2013-08-31T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-09-01-FPGA-Heater-Cores-released/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-09-01-FPGA-Heater-Cores-released/">
     <content type="html">&lt;p&gt;In the publication "M. Happe, H. Hangmann, A. Agne, and C. Plessl. &lt;strong&gt;Eight ways to put your FPGA on fire – a systematic study of heat generators.&lt;/strong&gt; In Proc. Int. Conf. on ReConFigurable Computing and FPGAs (ReConFig), pages 1–8. IEEE Computer Society, Dec. 2012.", which won the best paper award at the ReConFig'2012 conference, University of Paderborn has presented a study on the systematic design and evaluation of circuits that are optimised for generating a maximum amount of heat on FPGAs. Such heater cores can be used for automatically generating and calibrating thermal models of FPGA devices. Also the heater cores can be used to expose distinct areas of the devices to high temperatures with the objective to induce soft-errors, due to an increase in switching time.&lt;/p&gt;
 
 &lt;p&gt;To make the heater cores available for other researchers for experimentation, we have released them as pcore modules, that can be integrated as components in Xilinx FPGA designs. The amount of heat that is generated can be adjusted in 32 levels.&lt;/p&gt;
 
-&lt;p&gt;More information and the MIT-licensed open source code of the FPGA heater cores can be found at &lt;a href="http://www.epics-project.eu/fpga-heater"&gt;http://www.epics-project.eu/fpga-heater&lt;/a&gt;.&lt;/p&gt;</content>
+&lt;p&gt;More information and the MIT-licensed open source code of the FPGA heater cores can be found at &lt;a href="http://epics.uni-paderborn.de/fpga-heater"&gt;http://epics.uni-paderborn.de/fpga-heater&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-08-20:/news/2013-08-01-Video-Challenge/</id>
+    <id>tag:epics.uni-paderborn.de,2013-08-20:/news/2013-08-01-Video-Challenge/</id>
     <title type="html">Deadline for EPiCS Video Student Contest extended</title>
     <published>2013-08-19T22:00:00Z</published>
     <updated>2013-08-19T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-01-Video-Challenge/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-08-01-Video-Challenge/">
     <content type="html">&lt;p&gt;We have extended the deadline for submissions to the &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt; to August 31.&lt;/p&gt;
 
 &lt;p&gt;In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
@@ -145,19 +145,19 @@
 &lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-08-12:/news/2013-08-12-EPiCS-Video-Channel/</id>
+    <id>tag:epics.uni-paderborn.de,2013-08-12:/news/2013-08-12-EPiCS-Video-Channel/</id>
     <title type="html">EPiCS Video Channel</title>
     <published>2013-08-11T22:00:00Z</published>
     <updated>2013-08-11T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-12-EPiCS-Video-Channel/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-08-12-EPiCS-Video-Channel/">
     <content type="html">&lt;p&gt;We are happy to announce that the EPiCS consortium has setup an &lt;a href="https://vimeo.com/channels/epics"&gt;EPiCS video channel&lt;/a&gt; at Vimeo, where we share videos for demonstrating and disseminating our research results to a broad audience. The first couple of videos have been already published and several new videos are currently in production. Stay tuned!&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-08-09:/news/2013-08-09-Peter-Lewis-Exchange/</id>
+    <id>tag:epics.uni-paderborn.de,2013-08-09:/news/2013-08-09-Peter-Lewis-Exchange/</id>
     <title type="html">Research Exchange of Peter Lewis with Politecnico di Milano</title>
     <published>2013-08-08T22:00:00Z</published>
     <updated>2013-08-08T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-09-Peter-Lewis-Exchange/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-08-09-Peter-Lewis-Exchange/">
     <content type="html">&lt;p&gt;Dr. Peter Lewis, who is based at the University of Birmingham and works
 on the EPiCS project, visited Professor Marco Santambrogio at the NECST
 Lab at the Politecnico di Milano on a Research Exchange visit. The
@@ -194,11 +194,11 @@ framework for computational self-awareness and how the capabilities it describes
 &lt;/figure&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-08-07:/news/2013-08-07-Ella-Released/</id>
+    <id>tag:epics.uni-paderborn.de,2013-08-07:/news/2013-08-07-Ella-Released/</id>
     <title type="html">Ella distributed publish/subscribe middleware released</title>
     <published>2013-08-06T22:00:00Z</published>
     <updated>2013-08-06T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-07-Ella-Released/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-08-07-Ella-Released/">
     <content type="html">&lt;p&gt;Ella, the Middleware developed in the EPiCS Project, has just been released as open source.&lt;/p&gt;
 
 &lt;p&gt;Ella is a fully distributed publish/subscribe middleware enabling rapid development of data-driven distributed applications. Ella features a simple and fluent facade making it easy to use. A special focus in the design of the middleware has been put easy integration of Ella into existing code. It does not require any inheritance but instead uses code annotations to make classes suitable for use in the system.&lt;/p&gt;
@@ -206,11 +206,11 @@ framework for computational self-awareness and how the capabilities it describes
 &lt;p&gt;Ella can be downloaded from &lt;a href="http://ella.codeplex.com"&gt;http://ella.codeplex.com&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-08-06:/news/2013-08-06-CAMSIM-Released/</id>
+    <id>tag:epics.uni-paderborn.de,2013-08-06:/news/2013-08-06-CAMSIM-Released/</id>
     <title type="html">CamSim simulator for distributed camera networks released</title>
     <published>2013-08-05T22:00:00Z</published>
     <updated>2013-08-05T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-06-CAMSIM-Released/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-08-06-CAMSIM-Released/">
     <content type="html">&lt;p&gt;&lt;a href="http://epics.github.io/CamSim"&gt;CamSim&lt;/a&gt;, the simulator for distributed smart camera networks, has just been released in its first version. In the last few months, the pre-release of CamSim went through various major refactoring processes.&lt;/p&gt;
 
 &lt;p class="center"&gt;
@@ -234,13 +234,14 @@ framework for computational self-awareness and how the capabilities it describes
 &lt;p&gt;The first release can be downloaded from &lt;a href="https://github.com/EPiCS/CamSim/releases/tag/v1.0"&gt;https://github.com/EPiCS/CamSim/releases/tag/v1.0&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
   <entry>
-    <id>tag:www.epics-project.eu,2013-08-01:/news/2013-08-20-Video-Challenge-Extended/</id>
+    <id>tag:epics.uni-paderborn.de,2013-08-01:/news/2013-08-20-Video-Challenge-Extended/</id>
     <title type="html">EPiCS Video Student Contest, win 500€ in cash!</title>
     <published>2013-07-31T22:00:00Z</published>
     <updated>2013-07-31T22:00:00Z</updated>
-    <link rel="alternate" href="http://www.epics-project.eu/news/2013-08-20-Video-Challenge-Extended/">
+    <link rel="alternate" href="http://epics.uni-paderborn.de/news/2013-08-20-Video-Challenge-Extended/">
     <content type="html">&lt;p&gt;We are pleased to announce that &lt;strong&gt;EPiCS Video Student Contest&lt;/strong&gt;. In this challenge we invite students to produce a short video that explains the role of self-awareness in technical systems. The best video will be awarded with cash prices up to 500€.&lt;/p&gt;
 
 &lt;p&gt;More information can be found &lt;a href="/contest"&gt;here&lt;/a&gt;.&lt;/p&gt;</content>
   </entry>
 </feed>
+
