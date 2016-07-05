@@ -84,7 +84,7 @@
 
 <div style="clear:both;"></div>
 
-<div id="footer">© University of Paderborn, Germany | <a href="imprint/">Imprint</a> | Last Updated Aug 06, 2013</div>
+<div id="footer">© University of Paderborn, Germany | <a href="imprint/">Imprint</a> | Last Updated Jul 05, 2016</div>
 
 
 </body>
